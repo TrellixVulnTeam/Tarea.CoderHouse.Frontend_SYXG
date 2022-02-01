@@ -1,0 +1,704 @@
+00:43:59	Angeles Gonzalez:	buenas noches
+00:44:00	Katriel Espino:	Hay algún problema si subí 5 pdf con la vista desktop y mobile?
+00:44:14	Gonzalo Martinez Adalid:	si
+00:44:18	eric lanternier:	SI
+00:44:23	Elvis Paul Tapiaza:	en Balsamiq te da la opción de ecritorio y de movil
+00:44:26	Gabriel Gonzalez:	si
+00:44:26	Elvis Paul Tapiaza:	es mas rapido
+00:44:52	Ignacio José Salas Paz:	Buenas noches!
+00:45:39	Julieta Mulinaris:	uhhh yo use whimsical, no me gusto 😞
+00:47:29	Sebastian Casallas:	Yo use el Adobe XD es muy sencillo de usar
+00:48:13	Juanma Zimmermann:	figma use yo, aunque mas complicado
+00:48:38	Elvis Paul Tapiaza:	balsamiq te da muchos iconos que prácticamente solo mueves y ya
+00:48:49	[TUTORA] Antonella Herrera:	puede utilizar Tambien marvelapp como otra opción, es fácil de usar
+00:48:57	Dario Ceballos:	https://codepen.io/santiagoav-the-bashful/pen/YzPqOBL
+00:49:41	Elvis Paul Tapiaza:	solo que aun no se bien es cuanto margen o cuanto x cuanto es para excritorio y para movil
+00:49:59	Constancio Molinengo:	Uf, ese center como lo necesito para el menú jaja
+00:50:05	Leandro Farfan:	stretch no existe para mi
+00:50:14	Leandro Farfan:	XD
+00:50:42	Alan Dusserrat:	es lo mismo q el padre solo q se lo das al hijo no?
+00:51:06	Daniel Pérez:	no un machete como flex para vs?
+00:51:15	Katriel Espino:	Darío, una pregunta, hay alguna extensión tipo machete como la queh abías pasado del flex?
+00:51:23	Julieta Mulinaris:	se hace poniendo una class a cada hijo
+00:51:47	Julieta Mulinaris:	genial :D
+00:52:56	Jose Useche:	que es lo que son esos conceptos partes?
+00:53:49	Alan Dusserrat:	que es responsive?
+00:53:59	[TUTORA]Constanza Pugliese:	ahora lov amos a ver Alan
+00:54:05	Julieta Mulinaris:	va a ser otro BUM
+00:54:09	Miguel Pachano:	bien!!
+00:54:11	Leandro Nicolas Olmos Gomez:	hypeeee
+00:54:16	Federico Portillo Luzuriaga:	la ansiedad
+00:54:27	Sebastian Casallas:	Esta tirando cosas para que nos dejej con ganas
+00:54:30	alexis nahuel gauna britos:	tren del hype
+00:54:31	Elvis Paul Tapiaza:	necesito el aire de guadalupe
+00:54:35	William Andres Jaimes Fontalvo:	Sentir el bum del perreo intenso de las animaciones
+00:55:11	Agustin Videla:	no
+00:55:14	Gonzalo Martinez Adalid:	si
+00:55:16	Gabriel Castillo:	adaptable
+00:55:18	Katriel Espino:	Tengo una idea, pero no se precisamente
+00:55:20	Julieta Mulinaris:	que se acomoda al tamaño de la pantalla ?
+00:55:21	Federico Portillo Luzuriaga:	adaptable al tamañno de ventana
+00:55:22	Renzo Posobon:	que se ajusta a la pantalla?
+00:55:24	Orlando Diaz:	Que se adapta a otras dispositivos?
+00:55:26	Gabriel Spina:	bop
+00:55:27	Francisco Cilbeti:	que se "vea bien" en cualquier dispositivo
+00:55:28	Agustin Videla:	responsable
+00:55:30	Julieta Mulinaris:	si achicas la ventana se ve bien igual
+00:55:31	Franco Romero:	adaptable?
+00:55:34	Daniel Pérez:	se adapta a los dispositivos
+00:55:34	Gonzalo Martinez Adalid:	que se adapte a la resolución de la pantalla
+00:55:35	Leandro Farfan:	Adaptable
+00:55:57	Nahuel Figueroa:	Se ajusta a los diferentes dispositivos
+00:57:02	Eduardo Saldaña:	@media
+00:57:31	Gonzalo Martinez Adalid:	@media only screen and
+00:58:14	Katriel Espino:	Si
+00:58:15	Alan Dusserrat:	sii
+00:58:15	Ezequiel Lopez mateo:	Si
+00:58:15	Francisco Cilbeti:	si
+00:58:17	Juan Pablo López:	si
+00:58:18	Julieta Mulinaris:	sii
+00:58:18	Federico Portillo Luzuriaga:	yes
+00:58:20	Miguel Pachano:	si
+00:58:22	Orlando Diaz:	S
+00:58:26	William Andres Jaimes Fontalvo:	Sí
+00:58:28	Gabriel Castillo:	sí
+01:02:01	Alan Dusserrat:	pc
+01:02:02	Leandro Nicolas Olmos Gomez:	desktop
+01:02:04	Daniel Pérez:	celu
+01:02:05	Ezequiel Lopez mateo:	descktop
+01:02:06	Gonzalo Martinez Adalid:	mobile
+01:02:06	Federico Portillo Luzuriaga:	desktpo
+01:02:07	Julieta Mulinaris:	compu
+01:02:08	Francisco Cilbeti:	desktp
+01:02:26	Ruben Ortega:	laptop
+01:03:41	Leandro Nicolas Olmos Gomez:	mobile
+01:03:42	Alan Dusserrat:	celular
+01:03:43	Julieta Mulinaris:	celular
+01:03:45	Francisco Cilbeti:	telefonoç
+01:04:07	Miguel Pachano:	okk
+01:04:22	Leandro Nicolas Olmos Gomez:	adentroo
+01:04:22	Federico Portillo Luzuriaga:	jajaja
+01:04:24	Leandro Farfan:	Contratado
+01:04:25	Ezequiel Lopez mateo:	jajajaja
+01:04:26	alexis nahuel gauna britos:	dataso
+01:04:29	Alan Dusserrat:	jajajaja
+01:04:30	William Andres Jaimes Fontalvo:	😆
+01:04:32	Federico Portillo Luzuriaga:	divine
+01:04:48	Gabriel Castillo:	bien, excelente tip
+01:04:58	Alan Dusserrat:	se las sabe todas el profe
+01:05:16	Federico Portillo Luzuriaga:	chan
+01:05:24	alexis nahuel gauna britos:	salud
+01:05:25	Federico Portillo Luzuriaga:	wtf
+01:05:28	Julieta Mulinaris:	jajaj
+01:05:29	Jose Useche:	jajajaja
+01:05:30	Juan Pablo Riveros Gonzalez:	jajajajja
+01:05:34	Federico Portillo Luzuriaga:	rip
+01:05:35	Jose Useche:	jajjajaja
+01:05:35	Leandro Farfan:	Creo que tocio
+01:05:41	Gabriel Castillo:	firulais también dice salud
+01:06:10	ulises sanchez:	una pregunta si tengo 5 formatos HTML tengo que hacer 5 css o 1 solo?
+01:06:16	Federico Portillo Luzuriaga:	jajaja
+01:06:20	Sebastian Casallas:	Uno solo
+01:06:21	Alan Dusserrat:	1 solo
+01:06:25	[TUTORA] Antonella Herrera:	solo 1 css
+01:06:28	ulises sanchez:	grax
+01:07:12	Ezequiel Lopez mateo:	Se arranca del smarphone
+01:07:13	Daniel Pérez:	al reve
+01:07:14	Ezequiel Lopez mateo:	?
+01:07:14	Katriel Espino:	CELU/TABLET Y LUEGO DESKTOP
+01:07:15	Federico Portillo Luzuriaga:	invertido a lo que hicimos
+01:07:16	Gabriel Castillo:	primero celular
+01:07:16	Orlando Diaz:	smartphone
+01:07:16	Julieta Mulinaris:	celu Tablet pc
+01:07:18	Juan Pablo López:	inverso
+01:07:23	Patricia Capitanelli:	mobile FIRst
+01:07:25	Ruben Ortega:	mobile y luego destok
+01:07:28	Francisco Cilbeti:	reloj celular tableta pc
+01:07:33	[TUTOR]Victor Hernandez:	Exacto desde la pantalla mas pequeña a la mas grande
+01:08:29	Leandro Nicolas Olmos Gomez:	tablet
+01:08:30	Nahuel Figueroa:	tablet
+01:08:32	Leandro Farfan:	Tablet
+01:08:32	Patricia Capitanelli:	tablet
+01:08:34	Ruben Ortega:	tablet
+01:08:42	Nahuel Figueroa:	Desktop
+01:08:45	Francisco Cilbeti:	SmartWatch no se considera mobile?
+01:08:57	Juan Pablo Riveros Gonzalez:	eso iba a preguntar?
+01:08:57	Francisco Cilbeti:	aahhhh ok
+01:09:18	Francisco Cilbeti:	ok ok
+01:09:19	Raúl Óscar Chiri de Villaflor:	los frigorificos Tambien jaja
+01:09:32	Francisco Cilbeti:	si perfecto
+01:09:36	Alan Dusserrat:	siii
+01:09:37	Leandro Farfan:	Si
+01:11:19	Gabriel Castillo:	como el proyecto de nosotros ahora
+01:12:07	Francisco Cilbeti:	yo voy a tener que re escribir gran parte je
+01:12:27	William Andres Jaimes Fontalvo:	Con el CSS
+01:12:30	Franco Romero:	youtube
+01:12:32	Francisco Cilbeti:	con clases e ids
+01:12:36	Katriel Espino:	Yo creo que si
+01:12:37	Federico Portillo Luzuriaga:	usando grids
+01:12:40	William Andres Jaimes Fontalvo:	Sí
+01:12:40	Ezequiel Lopez mateo:	Entiendo que si
+01:12:40	Gabriel Castillo:	cambiando el ancho
+01:12:41	Renato Mókosce Kinley:	Inspeccionar elemento y señalamos la opción Smartphone
+01:12:43	Enzo Vidal:	tendrías que  minimizar tamaños
+01:12:43	Nahuel Figueroa:	Si
+01:12:45	Leandro Farfan:	mmm nose
+01:12:46	Katriel Espino:	cambiando las medidas y eso en el CSS
+01:12:49	Renzo Posobon:	cambiando las medidas?
+01:12:50	Daniel Pérez:	hay q cambiar bastante
+01:12:58	Julieta Mulinaris:	empezar de nuevo
+01:13:00	Leandro Farfan:	Con vh o wh?
+01:13:00	Gabriel Gonzalez:	medidas
+01:13:01	Juan Pablo Riveros Gonzalez:	no creo
+01:13:01	Julieta Mulinaris:	😂
+01:13:02	Francisco Cilbeti:	si mucho
+01:13:12	Edgard Alan Gamboa Olmos:	como podríamos hacerle para adaptarlo a cada tipo de celular ? por que tienen distintas pantallas en tamaño. se necesita poner especificación de medid de cada uno?
+01:13:27	Francisco Cilbeti:	quise ponerle grids y ya reescribi un monton….
+01:13:53	William Andres Jaimes Fontalvo:	Me sirve reescribir todo para mejorar aspectos
+01:14:07	Francisco Cilbeti:	si, además aprendes si o si jajaja
+01:14:56	Edgard Alan Gamboa Olmos:	como podríamos hacerle para adaptarlo a cada tipo de celular ? por que tienen distintas pantallas en tamaño. se necesita poner especificación de medid de cada uno?
+01:15:05	Gabriel Castillo:	Tengo una consulta, mito o verdad:
+01:15:08	[TUTORA] Antonella Herrera:	Ahora vemos bien como hacemos Edgar para los tamaños de pantalla, igual las medidas relativas van a ayudar a que no tengas que pensar espeficamente para cada celular
+01:15:33	Jose Useche:	la base del código se mantendría?
+01:15:53	[TUTORA]Constanza Pugliese:	como explicaba el profe, primero codean los estilos generales Jose
+01:16:37	Edgard Alan Gamboa Olmos:	perfecto eso ayuda en mi duda, gracias.
+01:17:49	Juan Pablo Riveros Gonzalez:	pensé que en los celulares se hacia la diferencia entre Android y apple
+01:18:00	Juan Pablo Riveros Gonzalez:	para el tamaño
+01:18:22	Gabriel Castillo:	"Si un usuario busca desde su celular algún comercio, si la página está hecha con mobile first se mostrará primero que una hecha al estilo desktop first?.......Mito o verdad?
+01:18:32	[TUTORA]Constanza Pugliese:	varían el tamaño más allá del sistema operativo Juan
+01:18:35	[TUTORA] Antonella Herrera:	En cuanto a tamaño no, se hace una medida estándar para todos los celulares en general
+01:19:09	Santiago Mazuera:	Tuve un corte de energía hasta el momento me pude conectar pido disculpas
+01:22:23	Eduardo Saldaña:	:)
+01:22:25	Katriel Espino:	sirve para hacer los hamburguer menú, no?
+01:22:30	Julieta Mulinaris:	😁
+01:22:44	Katriel Espino:	bien
+01:22:50	Eduardo Saldaña:	jejeeje
+01:22:55	Federico Portillo Luzuriaga:	nice
+01:22:58	Julieta Mulinaris:	sii
+01:23:01	Miguel Pachano:	sii
+01:23:50	Jose Useche:	el valor que se pone en paréntesis lleva aparte del numero alguna unidad o variable como width?
+01:24:39	Jose Useche:	px, vh?
+01:24:39	Leandro Nicolas Olmos Gomez:	uhhh entonces el smartphone puede tener dos resoluciones
+01:24:40	[TUTORA]Constanza Pugliese:	px Jose
+01:24:43	Leandro Nicolas Olmos Gomez:	me olvidaba eso
+01:25:03	Daniel Pérez:	se adapta
+01:25:13	Gabriel Castillo:	cambia la orientación
+01:25:41	Katriel Espino:	apaisada?
+01:25:53	Jose Useche:	horizontal y vertical
+01:25:54	Katriel Espino:	ah horizontal
+01:25:54	Katriel Espino:	sisi
+01:25:56	Francisco Cilbeti:	horizontal
+01:26:02	Julieta Mulinaris:	o sea lo hacemos en vertical, y el horizontal es opcional
+01:26:08	Eduardo Angulo:	panoramica
+01:26:16	Eduardo Angulo:	<3
+01:26:20	Eduardo Angulo:	</3
+01:26:26	Enzo Vidal:	trabajaríamos con 480px entonces?
+01:26:58	Jose Useche:	los de 2y3g
+01:27:00	Juan Pablo Riveros Gonzalez:	los ladrillos
+01:27:04	Juan Pablo Riveros Gonzalez:	jejejeje
+01:27:26	Enzo Vidal:	impeca
+01:27:43	Renzo Posobon:	cuando pones "inspeccionar" una pagina, te tira distintas medidas
+01:27:48	Renzo Posobon:	sirve de guía?
+01:28:01	[TUTOR]Victor Hernandez:	si renzo!
+01:28:05	[TUTOR]Victor Hernandez:	es clave
+01:28:06	Jose Useche:	como se ve inpeccionar en el smartphone
+01:28:10	Dario Ceballos:	https://blisk.io/
+01:28:11	Renzo Posobon:	aah ok ok
+01:28:15	Gustavo Flores Enciso:	Por qué Instagram no tiene vista en Tablet? jajaja
+01:28:16	Eduardo Angulo:	mozilla:) TOR :(
+01:29:19	Agustin Videla:	dario pregunta, hay algun editor de texto para mobile?
+01:29:52	Jose Useche:	cuando hacen un código sin version mobile cual seria principal diferencia que haciéndole le mobilefirst? que tal vez no se vean toda slas opciones?
+01:30:10	Jose Useche:	es decir cuando ejecuten la pagina en un celular
+01:30:35	[TUTORA]Constanza Pugliese:	el navegador va a reconocer las media queries de cualquier forma
+01:31:01	Francisco Cilbeti:	ok
+01:31:14	Jose Useche:	pero como sabe el navegador que es verion mibile y version deskop sino le doy propiedades para mobile
+01:31:49	Alan Dusserrat:	por que queda todo mal organizado
+01:31:50	[TUTORA]Constanza Pugliese:	tenés que usar las @media y dentro aplicar los cambios en ese tamaño
+01:32:10	Daniel Pérez:	es q sonaba muy igual la explicacin de las diferentes cosas
+01:33:22	Katriel Espino:	el pixel no se devalúa 😂
+01:33:25	Constancio Molinengo:	Profe, los pixeles como se toman? Porque las pantallas de los dispositivos de alta gama no tienen la misma que los de gama baja, por ejemplo
+01:33:27	Alan Dusserrat:	jajaja
+01:33:28	Francisco Cilbeti:	30% de que ? sino le decis la referencia
+01:33:28	Leandro Farfan:	XD
+01:33:39	alonso porras:	y el %
+01:33:42	Francisco Cilbeti:	si claro
+01:34:55	alonso porras:	que significa que una web tiene eso tipos de valores tachados,profe?
+01:35:34	Julieta Mulinaris:	porq es mas grande la pantalla
+01:35:34	Nahuel Figueroa:	No esta porque es para mobile
+01:35:34	Federico Portillo Luzuriaga:	tiene mas de ancho
+01:35:36	Gonzalo Martinez Adalid:	mas chico
+01:35:37	Siria Vega:	jsja
+01:35:37	[TUTORA] Antonella Herrera:	Cuando inspeccionas decís Alonso?
+01:35:39	Nahuel Figueroa:	Claro
+01:35:39	Diego López:	pasa el maximo
+01:35:42	Francisco Cilbeti:	eso
+01:35:44	alexis nahuel gauna britos:	magia
+01:35:44	Gabriel Spina:	hay que cambiar la vista ?7
+01:35:47	Leandro Farfan:	Pixeles
+01:35:49	Leandro Nicolas Olmos Gomez:	magia
+01:35:52	Renato Mókosce Kinley:	jajajajajajaja que crack
+01:36:00	Gabriel Castillo:	bum bum bum
+01:36:05	Agustin Videla:	JSajsjajsajsjajsajsjajsa
+01:36:06	alonso porras:	a ok
+01:36:09	Agustin Videla:	yo flashee
+01:36:13	Alan Dusserrat:	cuando hacemos para teléfono hay q hacer otro html y css??
+01:36:16	Eduardo Angulo:	LA NASA TE BUSCA DARIO
+01:36:28	Jose Useche:	jajajaja
+01:36:33	Gabriel Castillo:	jaajaja
+01:36:36	[Tutora] Luna Bartolozzi:	no Alan, es el mismo css y html
+01:36:39	Francisco Cilbeti:	mmmmm es la única forma de detectar dispositivo?
+01:36:40	Constancio Molinengo:	Tendríamos que meter todo el .css que hicimos para desktop dentro de un @media?
+01:36:41	[TUTOR] Howard Parra:	no Alan el mismo
+01:36:52	[TUTOR]Victor Hernandez:	no alan! fíjate la utilidad de @media
+01:36:54	Constancio Molinengo:	Y luego hacer otro .css para los demás dispositivos?
+01:36:56	Eduardo Angulo:	QUE PICARDOA
+01:36:58	[TUTOR]Victor Hernandez:	ya lo vamos a ver durante la clase
+01:37:01	[Tutora] Luna Bartolozzi:	nono, el css siempre es el mismo
+01:37:05	Eduardo Angulo:	*PICARDIA
+01:37:13	[TUTORA] Antonella Herrera:	nono, se utiliza el mismo archivo css
+01:37:17	Alan Dusserrat:	ok gracias!
+01:37:22	[TUTORA] Antonella Herrera:	solo que aclaras las propiedades dentro de las media
+01:37:23	Juan Pablo Riveros Gonzalez:	esto parece brujeria
+01:37:24	Federico Portillo Luzuriaga:	yes
+01:37:25	Francisco Cilbeti:	si
+01:37:26	Daniel Pérez:	si
+01:37:26	Gabriel Castillo:	sí
+01:37:27	Juan Pablo Riveros Gonzalez:	jajajajaj
+01:37:27	Leandro Nicolas Olmos Gomez:	si profeee
+01:37:29	Gabriel Gonzalez:	si
+01:37:29	Ezequiel Lopez mateo:	Se entendio
+01:37:30	Miguel Pachano:	yess
+01:37:34	Constancio Molinengo:	perfecto
+01:37:37	alonso porras:	si
+01:37:38	Oscar Luis Gallardo:	👍🏻
+01:37:45	Enzo Vidal:	nosotros entonces tenemos que copiar lo de desktop y pegarlo en cada media cambiándole todas las medidas??
+01:37:57	Federico Portillo Luzuriaga:	none
+01:38:08	Leandro Nicolas Olmos Gomez:	gatito
+01:38:11	Constancio Molinengo:	perrito
+01:38:15	Gonzalo Martinez Adalid:	gatito
+01:38:20	Eduardo Saldaña:	kitten
+01:38:21	Katriel Espino:	.com profe
+01:38:24	alonso porras:	es la mascota del profe XD
+01:38:24	Francisco Cilbeti:	la URL esta mal
+01:38:25	Katriel Espino:	le faltó el .com
+01:38:28	Constancio Molinengo:	Viste que los gatos no funcionan
+01:38:28	Eduardo Angulo:	*EVIL DARIO: PERRITOS
+01:38:43	Constancio Molinengo:	Jajaja
+01:38:45	Jose Useche:	jjaaajjjjaaja
+01:38:47	alexis nahuel gauna britos:	mensaje subliminal
+01:38:48	Renzo Posobon:	es hermoso
+01:38:49	Diego López:	está buenisimo
+01:39:03	Constancio Molinengo:	atr
+01:39:21	Juan Pablo Riveros Gonzalez:	si tomo horizontal y vertical se hacen 2 @media?
+01:39:35	Eduardo Angulo:	MAMA LA PROGRAMACION ES RE SERIO... YO JUGANDO CON QUERIES
+01:39:46	Juan Pablo Riveros Gonzalez:	super
+01:40:28	Francisco Cilbeti:	481
+01:40:32	Jose Useche:	en el código donde especifica que la version que la  hizo era vertical?
+01:40:33	Scattularo Sergio:	Se puede poner 2 condiciones ?? 
+01:40:33	Leandro Nicolas Olmos Gomez:	se rompre
+01:40:40	Cristofer Cabrera:	es como el <=
+01:40:47	Francisco Cilbeti:	481
+01:41:04	Francisco Cilbeti:	AND
+01:41:05	Francisco Cilbeti:	?
+01:41:31	Francisco Cilbeti:	1023
+01:41:37	Federico Portillo Luzuriaga:	el salvador AND
+01:41:39	[TUTORA] Antonella Herrera:	Es por el tamaño Jose, el profe esta usando de referencia la tabla con las medidas
+01:41:52	Constancio Molinengo:	Las resoluciones menores no pisan las mayores? Hay que poner si o si el rango entero de resolución?
+01:42:14	Gonzalo Martinez Adalid:	aqua
+01:43:35	[TUTORA] Antonella Herrera:	Si definís así como esta haciendo el profe Constancio, que aclara mayor y menor no se pisan
+01:43:52	Leandro Nicolas Olmos Gomez:	perfecto
+01:43:52	Ezequiel Lopez mateo:	Vamos bien
+01:43:55	Francisco Cilbeti:	si
+01:43:56	lucas cifuentes:	sisi
+01:44:01	alonso porras:	si
+01:44:01	Diego Villalba:	y vertical ?
+01:44:03	Enzo Vidal:	nosotros entonces tenemos que copiar lo de desktop y pegarlo en cada media cambiándole todas las medidas??
+01:44:05	alonso porras:	vamos bien
+01:44:21	Orlando Diaz:	min
+01:44:23	Ezequiel Lopez mateo:	min 1024 ?
+01:44:26	Leandro Nicolas Olmos Gomez:	min 1024
+01:44:29	Francisco Cilbeti:	min 1024
+01:44:30	Pedro Parra:	Min 1024
+01:44:30	Katriel Espino:	mi-width: 1024px
+01:45:03	[TUTORA] Antonella Herrera:	No exactamente Enzo, ahora cuando veamos el ejemplo de grid va a quedar mas claro que suele cambiar el diseño para las pantallas, quizás como se acomodan las cosas, no solo el tamaño de las cosas
+01:45:29	Ezequiel Lopez mateo:	Con media queries nos alcanzará para modificar nuestro proyecto de desktop a las demás?
+01:45:34	Enzo Vidal:	ahh dale muchas gracias!!
+01:46:05	Federico Portillo Luzuriaga:	hermoso
+01:46:09	Julieta Mulinaris:	muy bueno!!
+01:46:10	Eduardo Angulo:	BRAVOOOO
+01:46:10	[TUTORA] Antonella Herrera:	Ya con las medias van a poder hacer el responsive
+01:46:22	Francisco Cilbeti:	la única forma de detecgar pantallas (con CSS solo) es esta ?
+01:46:23	Eduardo Angulo:	MAS VALERIA
+01:46:26	Gabriel Castillo:	si ya estoy creando una media con min-width: 1024px entonces podría eliminar el and max-width; 1023 de la tablet?
+01:46:30	[TUTORA]Constanza Pugliese:	tienen que usar @media Eze
+01:46:42	Ezequiel Lopez mateo:	Necesito aplicar esto al proyecto (foto de laport)
+01:46:48	Federico Portillo Luzuriaga:	oka
+01:46:52	Francisco Cilbeti:	si
+01:47:00	Daniel Pérez:	si, el tema es donde usarlo en una pagina
+01:47:10	[TUTORA]Constanza Pugliese:	No Gaby
+01:47:15	William Andres Jaimes Fontalvo:	😆
+01:47:36	Diego Villalba:	y vertical?
+01:47:45	Eduardo Angulo:	<3
+01:47:48	Juan Pablo Riveros Gonzalez:	buenisimo
+01:47:48	[TUTORA] Antonella Herrera:	Gabriel pensa que si no le colocas el máximo, se van a pisar algunas propiedades
+01:47:49	Miguel Pachano:	Brutal!
+01:47:52	Julieta Mulinaris:	y se puede poner lo mismo en todos y listo?
+01:47:54	Eduardo Angulo:	AVANTI MOROCHAAAAA
+01:47:56	Francisco Cilbeti:	dale
+01:47:56	Julieta Mulinaris:	en todas las medidas
+01:48:00	Francisco Cilbeti:	si
+01:48:01	Federico Portillo Luzuriaga:	listorti
+01:48:02	Leandro Nicolas Olmos Gomez:	dale break
+01:48:03	Gonzalo Martinez Adalid:	siii
+01:48:03	Renato Mókosce Kinley:	BRAKEEEEEE
+01:48:04	Renato Mókosce Kinley:	LETS GOO
+01:48:06	alonso porras:	si
+01:48:12	Katriel Espino:	genial
+01:48:15	[TUTORA]Constanza Pugliese:	Daniel vas a usarlo para achicar tamaños de tipografías, imágenes, ocultar elementos, cambiar la disposición de otros
+01:48:21	Alan Dusserrat:	jajaja
+01:48:28	Daniel Pérez:	gracias Coti
+01:48:36	Eduardo Angulo:	SENTADO EN LA ESQUINA PENSANDO COMO FUI TAN GIL♪
+01:48:47	Gabriel Castillo:	a vale está bien Anto, gracias
+01:48:59	Eduardo Angulo:	TIRATE UN PASO
+01:49:00	Renato Mókosce Kinley:	Damas gratis
+01:49:03	Eduardo Angulo:	WACHITURRO
+01:49:04	Raúl Óscar Chiri de Villaflor:	fer palacios dicen
+01:49:07	Eduardo Angulo:	YA FUE
+01:49:09	Eduardo Angulo:	JAJAJAJA
+01:49:10	Renato Mókosce Kinley:	JAJAJA BROMA
+01:49:18	Leandro Farfan:	Creo de Callejeros
+01:49:40	Eduardo Angulo:	SHADY!
+01:49:44	Gianfranco Pedrazzoli:	nosotros queremos el OTRO eminem
+01:49:55	Gianfranco Pedrazzoli:	(?
+01:50:01	Eduardo Angulo:	EL POLACO, EMINEM VERSION LATINOAMERICA
+01:50:15	Dario Ceballos:	jajaja
+01:50:25	Raúl Óscar Chiri de Villaflor:	no me anda el codigo para el desktop :(
+01:56:45	Gonzalo Martinez Adalid:	vamo
+01:56:46	Jose Useche:	una consulta por que entre cada version resto una por ejemplo en el del medio puso hasta 1023, para que no se crucen los valores? y si se ponen completos que pasaría o se usaría otro archivo para troa mobile y darle las medidas completas
+01:56:58	Renzo Posobon:	ok
+01:57:00	Juan Manuel Gonzalez:	estamos
+01:57:06	Katriel Espino:	Vamo a darle
+01:57:08	Daniel Pérez:	si
+01:57:14	Constancio Molinengo:	Sip
+01:57:15	Ezequiel Lopez mateo:	seguimo
+01:57:27	Francisco Cilbeti:	diga
+01:57:37	Gabriel Spina:	Una consulta general:Cuando escribimos el Css ponemos todos los htma y después de eso los media y todo lo que modificamos, es decir todo siempre va en el mismo css, no ?Queda enorme, esta bien eso ?
+01:58:17	Jose Useche:	o sea no ponerle 1023 sino 2014
+01:58:21	Jose Useche:	1024
+01:58:50	Jose Useche:	lo digo por que cuando son digamos proyextos para diferentes dispositivos
+01:58:53	Francisco Cilbeti:	usa el ultimo
+01:59:39	Daniel Pérez:	paradoja
+02:00:10	Jose Useche:	seria como a varios header no ponerle class para darle diferentes medidas?
+02:00:11	Cristofer Cabrera:	el menor igual no existe aca
+02:00:53	Cristofer Cabrera:	osea <= , o es menor o es mayor
+02:01:07	Jose Useche:	existe para esas zonas donde no hay cogertura de red 4 o 5g
+02:01:17	Estigarribia Ezequiel:	navegaba con la radio
+02:01:20	Estigarribia Ezequiel:	media 0
+02:01:38	Cristofer Cabrera:	se puede hacer una versión "sin conexion"?
+02:01:50	Alan Dusserrat:	el celular con minimo la tablet con minimo y maximo
+02:01:59	Alan Dusserrat:	y el destop en minimo?
+02:02:13	Eduardo Angulo:	OFF LINE
+02:02:19	Estigarribia Ezequiel:	necesitas un servidor si o si
+02:02:30	Jose Useche:	en ese caso aplicaría el jueguito de google cuando no hay internet
+02:02:36	Cristofer Cabrera:	claro con una conexion previa
+02:02:40	Leandro Farfan:	Seria buenisimo
+02:02:56	Orlando Diaz:	Una pregunta. Por que al ajustar el tamaño de mi pantalla si se efectúa el responsive pero cuando pongo inspeccionar y le pongo tamaño de algún movil no cambia?
+02:03:04	Eduardo Angulo:	best JUEGO EVER
+02:03:12	Cristofer Cabrera:	o las paginas de las compañías de internet cuando se te acaban los datos
+02:03:58	Julieta Mulinaris:	si quisiera q sea igual en todos los tamaños directamente copio y pego el mismo código en las tres??
+02:04:08	Sebastian Casallas:	No estas mostrando la pantalla
+02:04:08	Sebastian Casallas:	:v
+02:04:09	Cristian Carabajal:	no se ve la pantalla
+02:04:11	Enzo Vidal:	no se ve la pagina
+02:04:12	Nahuel Figueroa:	profe no esta mostrando la pantalla
+02:04:27	Francisco Cilbeti:	se ve
+02:04:28	Nahuel Figueroa:	Perfecto
+02:04:29	Gonzalo Martinez Adalid:	ahora si
+02:04:29	Agustin Videla:	|joya
+02:04:30	Federico Portillo Luzuriaga:	si
+02:04:36	Orlando Diaz:	Si estoy ajustando
+02:04:37	Eduardo Angulo:	PENSE QUE SOLO HABLABAMOS JAJAJA
+02:04:45	Dario Ceballos:	https://developer.mozilla.org/en-US/docs/Web/CSS/@media#media_types
+02:04:52	Francisco Agüero:	NO ESTA GRABANDO
+02:04:55	Francisco Agüero:	creo
+02:05:06	Francisco Agüero:	ah ok perdon
+02:05:07	Francisco Cilbeti:	si si ets grabando
+02:05:10	[TUTORA]Constanza Pugliese:	jajajaj miedo
+02:05:12	Eduardo Angulo:	NO ME LA CONTEINER
+02:05:16	Francisco Cilbeti:	dice arriba
+02:05:19	Alan Dusserrat:	jajajaja
+02:05:20	[TUTOR] Howard Parra:	si esta grabando
+02:05:22	Jose Useche:	nos mata sin la grabación jaja
+02:05:36	Jose Useche:	jajajaja
+02:05:41	Eduardo Angulo:	PAPA CODER SE ENOJARA
+02:05:42	Patricia Capitanelli:	arrancamos de nuevo jajajja
+02:06:36	Katriel Espino:	Quién imprimía un sitio web igual no?
+02:06:44	Francisco Cilbeti:	perfecto
+02:06:50	Leandro Nicolas Olmos Gomez:	eso es cuando ponemos guardar como pdf?
+02:06:52	Leandro Farfan:	Si no....
+02:06:52	Gonzalo Martinez Adalid:	para imprimir se usaría eso?
+02:07:06	Leandro Farfan:	😅
+02:07:21	Gonzalo Martinez Adalid:	genial genial para una factura de algún servicio sirve
+02:07:27	Gonzalo Martinez Adalid:	que la persona quisiera imprimir
+02:08:04	Gonzalo Martinez Adalid:	expliqué compuertas profe
+02:08:44	Cristofer Cabrera:	la condición se lo pregunta de derecha a izq como en un lenguaje de programación?
+02:09:13	Estigarribia Ezequiel:	profe, los breackpoint del ppt son distintos a los que ofrece bootstrap en su documentacion oficial. Eso es por algún motivo en especial?
+02:10:22	Dario Ceballos:	https://developer.mozilla.org/en-US/docs/Web/CSS/@media#media_types
+02:10:24	Gabriel Spina:	Una consulta general:Cuando escribimos el Css ponemos todos los htma y después de eso los media y todo lo que modificamos, es decir todo siempre va en el mismo css, no ?Queda enorme, esta bien eso ?O se escribe a la vez para una pantalla y a la otra a la vez
+02:10:26	William Andres Jaimes Fontalvo:	Esos condicionales parecen javascript
+02:10:42	Cristofer Cabrera:	los condicionales están en cualquier lenguaje
+02:10:58	[TUTORA]Constanza Pugliese:	todo en un mismo css
+02:11:24	[TUTORA]Constanza Pugliese:	primero los estilos generales y después las media queries en el orden que hayan elegido
+02:11:33	Jose Useche:	seria una locura
+02:11:49	[TUTORA]Constanza Pugliese:	después con sass vamos a organizar mejor el código
+02:12:56	Jose Useche:	iniciando un proyecto el bosquejo seria recomendado iniciar por definir  mediaquery ?
+02:13:20	[TUTORA] Antonella Herrera:	Tomas Broggi y Simon Cabrera, están? Si están necesito que se coloquen nombre y apellido en zoom para la asistencia
+02:13:38	Julieta Mulinaris:	siiii
+02:13:38	Daniel Pérez:	dalee
+02:13:38	Juan Pablo López:	si
+02:13:39	Gonzalo Martinez Adalid:	siiiiiii
+02:13:42	Leandro Nicolas Olmos Gomez:	siiu
+02:13:44	Eduardo Saldaña:	siii
+02:13:44	Federico Portillo Luzuriaga:	y daleeee
+02:13:45	Leandro Nicolas Olmos Gomez:	dale
+02:13:47	Eduardo Angulo:	sin flex por favor
+02:13:48	alonso porras:	si
+02:13:49	Julieta Mulinaris:	jajajaj
+02:13:50	Siria Vega:	jajaja
+02:13:51	William Andres Jaimes Fontalvo:	Siii
+02:13:51	Oscar Luis Gallardo:	Si
+02:13:53	Miguel Pachano:	siii
+02:13:53	Eduardo Saldaña:	siiiii
+02:13:53	Julieta Mulinaris:	a dormir !
+02:13:54	Gabriel Gonzalez:	sisi
+02:13:55	alonso porras:	si
+02:13:57	Patricia Capitanelli:	Por favooooor
+02:13:58	Julieta Mulinaris:	😂
+02:13:59	Leandro Farfan:	XD
+02:14:00	Renzo Posobon:	si por rfavor
+02:14:02	Juan Pablo Riveros Gonzalez:	ajjajaja
+02:14:05	alonso porras:	esta cabsado profe
+02:14:11	[Tutora] Luna Bartolozzi:	Ludmila Sabatini, Mariela Ayelen Solis Martínez,Martin Romano,Matias Bernal Estan presentes?
+02:14:22	Eduardo Angulo:	armemos alta joda profe
+02:14:28	Raúl Óscar Chiri de Villaflor:	😂
+02:14:29	Nahuel Figueroa:	Si
+02:14:29	Eduardo Saldaña:	si esta bien
+02:14:32	Julieta Mulinaris:	siii
+02:14:34	Sebastian Casallas:	De ejemplo ármate 5 HTML con el css
+02:14:34	Renzo Posobon:	siii
+02:14:34	Katriel Espino:	seee
+02:14:36	Gabriel Gonzalez:	si
+02:14:36	Federico Portillo Luzuriaga:	sipi
+02:14:37	alonso porras:	si
+02:14:45	Ezequiel Lopez mateo:	seeeee
+02:14:49	Sebastian Casallas:	Eso!!!
+02:14:50	William Andres Jaimes Fontalvo:	Siuuuu
+02:14:50	Sebastian Casallas:	ajajja
+02:14:50	Federico Portillo Luzuriaga:	todo tiene un precio
+02:14:50	Elvis Paul Tapiaza:	jajajajaja}
+02:14:51	Julieta Mulinaris:	jajajajaj
+02:14:54	Gabriel Castillo:	jaajaj
+02:14:54	Cristian Durán:	jajajajaa
+02:14:55	lucas cifuentes:	jajajaj
+02:14:58	Jose Useche:	iniciando un proyecto el bosquejo seria recomendado iniciar por definir  mediaquery ?
+02:15:01	Eduardo Angulo:	uala?
+02:15:01	Elvis Paul Tapiaza:	bitcoins
+02:15:10	[Tutora] Luna Bartolozzi:	Jose, si elegis mobilefirst se inicia asi
+02:15:49	Gabriel Castillo:	entonces las medias se dejan al último?
+02:15:53	[Tutora] Luna Bartolozzi:	Siempre tengan en cuenta que el 82% de los usuarios interactuan con celulares y no en pc
+02:16:40	Agustin Videla:	solo haciendo eso?
+02:16:43	Federico Portillo Luzuriaga:	hermoso
+02:17:00	Gonzalo Martinez Adalid:	un trabajo honesto
+02:17:04	Julieta Mulinaris:	que bien !😎
+02:17:14	Gabriel Castillo:	Es un cliente potencial
+02:17:15	Leandro Nicolas Olmos Gomez:	que laburitooo
+02:17:16	Daniel Pérez:	jaja q crack
+02:17:17	Eduardo Angulo:	NECESITAS AYUDA?
+02:17:21	Eduardo Angulo:	JAJAJAJ
+02:17:30	Jose Useche:	asistentes jaja
+02:17:36	Elvis Paul Tapiaza:	me ilusionas
+02:17:37	Elvis Paul Tapiaza:	u.u
+02:17:38	Leandro Farfan:	😓
+02:17:46	Gabriel Castillo:	he escuchado de fluid design
+02:17:49	Eduardo Angulo:	crea una empresa y contratanos
+02:17:49	[TUTORA]Constanza Pugliese:	es esencial saber hacer responsive
+02:18:08	Elvis Paul Tapiaza:	jajaj hay que seguir sus psos
+02:18:13	Elvis Paul Tapiaza:	pasos*
+02:18:18	Leandro Nicolas Olmos Gomez:	siii vamos
+02:18:20	alonso porras:	siiiiiiiiii
+02:18:21	Ezequiel Lopez mateo:	vamoo
+02:18:27	Eduardo Saldaña:	vamos :)
+02:18:28	alonso porras:	todo es valioso
+02:21:14	Renzo Posobon:	ahí esta
+02:21:21	Alan Dusserrat:	como lo escondes asi?
+02:21:44	Jose Useche:	profe repita
+02:21:46	Daniel Pérez:	no lo entiendo
+02:21:47	Julieta Mulinaris:	corto y pego
+02:22:03	Alan Dusserrat:	aaa gracias
+02:22:09	Daniel Pérez:	ahh
+02:23:59	Alan Dusserrat:	si pegas en tablet no funciona?
+02:26:39	Jose Useche:	en si solo fue poner el codigo en cada una lo que se realizo?
+02:27:04	Leandro Nicolas Olmos Gomez:	el column es el 100% entonces
+02:28:10	Eduardo Saldaña:	excelente!!
+02:28:11	William Andres Jaimes Fontalvo:	Más bonito
+02:28:20	[TUTORA] Antonella Herrera:	Es colocar el código y ver los valores para cada pantalla Jose
+02:28:47	Federico Portillo Luzuriaga:	centrarlo
+02:28:57	Julieta Mulinaris:	podemos dejar lo mismo en todos y solo cambiar el tamaño de pantalla?
+02:29:50	[TUTORA] Antonella Herrera:	Los estilos mas generales van a ser los mismos, lo que suele cambiar es la estructura general y medidas mayormente juli
+02:29:52	Ruben Ortega:	si pongo una imagen que cubra toda la pantalla en Tablet, le pued poner que cubra el 100% de la pantalla?
+02:30:12	[TUTORA]Constanza Pugliese:	la idea es que primero codeen los estilos generales y dentro de cada media querie codeen lo que es distinto
+02:31:13	[TUTORA] Antonella Herrera:	Si ruben, tendrías que aclarar la medida en tablet
+02:31:38	Ruben Ortega:	ok, gracias
+02:31:57	Francisco Cilbeti:	si
+02:31:58	lucas cifuentes:	sisi
+02:31:59	Orlando Diaz:	Si
+02:31:59	Gonzalo Martinez Adalid:	si
+02:32:02	William Andres Jaimes Fontalvo:	Sí
+02:32:06	Valentino Bossio:	see hay q ir jugando
+02:33:14	William Andres Jaimes Fontalvo:	Con @media se acepta más utilizar px como unidad ?
+02:33:25	Daniel Pérez:	en Tablet tanto como móvil el hover como que no tendría sentido no?
+02:33:25	Julieta Mulinaris:	no puedo poner el Chrome tan chiquito para q sea tamaño mobile,. de donde se configura? es como q lo mas chico es un ancho q no llega a ser menos de 480
+02:33:43	[Tutora] Luna Bartolozzi:	Juli, probaste con el inspeccionar?
+02:33:53	Cristian Carabajal:	hay alguna extensión para ver la versión mobile de lo que vamos haciendo? he visto que con flutter tienen un mockup donde van viendo como va quedando la app
+02:34:08	[Tutora] Luna Bartolozzi:	con inspeccionar pueden ver la version mobile
+02:34:10	[TUTORA] Antonella Herrera:	William, te conviene utilizar relativos, porque pensa que estas utilizando un rango para varias pantallas, entonces asi se va a adaptar
+02:34:28	[Tutora] Luna Bartolozzi:	cuando hacen f12 o inspeccionar, en la barra superior dice los px y los dispositiivos que pueden adaptar
+02:34:31	William Andres Jaimes Fontalvo:	Comprendo Anto, gracias!
+02:35:24	Julieta Mulinaris:	siii
+02:35:27	Julieta Mulinaris:	con inspeccionar pude
+02:35:54	Julieta Mulinaris:	gracias ! me estaba quemando la cabeza 😎
+02:36:13	[Tutora] Luna Bartolozzi:	<3<3
+02:36:27	[TUTORA]Constanza Pugliese:	full inspeccionar de ahora en más :)
+02:36:29	Jose Useche:	al agregar todo a media seria como el mismo ejemplo del padre e hijos, padre el media e hijos el resto del código?
+02:36:31	[TUTORA] Antonella Herrera:	Daniel, como no tener mouse no funciona como el compu, lo que suele pasar con el hover es que se ve cuando tocas el botón, asique no es lo mismo
+02:37:14	Leandro Nicolas Olmos Gomez:	tremeeendo
+02:37:16	William Andres Jaimes Fontalvo:	Maravilloso
+02:37:17	Katriel Espino:	Un golazo
+02:37:17	Agustin Videla:	PErfecto dario
+02:37:20	Ezequiel Lopez mateo:	Mucha data pero increiblee
+02:37:20	Francisco Cilbeti:	barbaro
+02:37:20	Diego López:	a practicarrr
+02:37:21	Federico Portillo Luzuriaga:	interesante
+02:37:22	Ruben Ortega:	genial
+02:37:23	Julieta Mulinaris:	excelente
+02:37:25	Orlando Diaz:	Rebueno
+02:37:25	Agustin Videla:	muy buenos los ejemplos
+02:37:27	Raúl Óscar Chiri de Villaflor:	se entendio, es cosa de practicarlo nomas
+02:37:28	Francisco Cilbeti:	subis estoa slack ?
+02:37:28	Raynald:	bien pero mas practica
+02:37:30	Julieta Mulinaris:	tengo q ver de nuevo esta ultima media hs, fue un monton jaja
+02:37:31	Ruben Ortega:	ya falataba
+02:37:31	Valentino Bossio:	me pone nervioso la palabra menú en el menu
+02:37:34	José Rodriguez:	buenisimo
+02:37:35	Eduardo Angulo:	3MEN2
+02:37:35	Juan Pablo Riveros Gonzalez:	practica
+02:37:36	Daniel Pérez:	Gracias Anto
+02:37:46	[TUTORA]Constanza Pugliese:	muy buena clase Darío!
+02:37:49	Sebastian Casallas:	A jugar se ha dicho!!
+02:37:58	William Andres Jaimes Fontalvo:	Vamo a juga
+02:38:11	Gonzalo Martinez Adalid:	siii
+02:38:12	Juan Pablo Riveros Gonzalez:	si
+02:38:13	Francisco Cilbeti:	si eso esi
+02:38:13	Daniel Pérez:	si
+02:38:16	Renzo Posobon:	si
+02:38:22	Leandro Nicolas Olmos Gomez:	ese screen que significa
+02:38:46	Diego Villalba:	el media que hizo de 480 px incluye la version vertical ?
+02:38:58	Leandro Nicolas Olmos Gomez:	okk
+02:38:58	Jose Useche:	en si fue agregar todo como al media  y empezar a jugar con valores?
+02:39:37	Eduardo Angulo:	GRID
+02:39:44	Eduardo Angulo:	<3
+02:39:47	Gonzalo Martinez Adalid:	bomba nuclear
+02:39:50	William Andres Jaimes Fontalvo:	Mediaverso
+02:39:50	Leandro Nicolas Olmos Gomez:	ya hay desafio de esto
+02:39:52	Leandro Nicolas Olmos Gomez:	?'
+02:39:54	alonso porras:	tream grid }
+02:39:56	[Tutora] Luna Bartolozzi:	Aprovechen a sumar flex y grid ahora sus proyectos porque el desafio del martes lo va a pedir
+02:39:57	Leandro Farfan:	Nop
+02:40:01	Ruben Ortega:	buenisimo
+02:40:01	[Tutora] Luna Bartolozzi:	avancen ahora que no tenemos otros desafios
+02:40:07	Eduardo Angulo:	*.*
+02:40:14	Eduardo Angulo:	METAVERSE CONFIRMED?
+02:40:34	(TUTORA) Magui Alonso:	aprovechen para practicar estos días, q no hay desafíos!!! vayan aplicando lo que hemos visto!
+02:40:53	Francisco Cilbeti:	si viene barbaro para reescribir todo jajaja
+02:40:54	Gabriel Castillo:	Gracias Magui
+02:41:03	[Tutora] Luna Bartolozzi:	Aplicando ahora, se evitan correr la semana que viene, sumando flex,grid y transformaciones
+02:41:41	Gonzalo Martinez Adalid:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+02:41:44	William Andres Jaimes Fontalvo:	Adios Box-modeling
+02:41:45	Gabriel Castillo:	Luna ya no vienen wireframes cierto?
+02:42:08	Dario Ceballos:	<!-- RESPONSIVE  -->
+    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+02:42:36	Renzo Posobon:	perdón, se me desconecto, para que es eso?
+02:42:38	Jose Useche:	seria recoemndado ponerla para evitar?
+02:42:51	[Tutora] Luna Bartolozzi:	No gabi, ya no se pide wireframe
+02:42:58	Gonzalo Martinez Adalid:	aguante the ofice!!!
+02:43:05	Gabriel Castillo:	Gracias Luna
+02:43:29	Jose Useche:	profe, seria recomendado poner viewport para evitar problemas?
+02:43:34	[Tutora] Luna Bartolozzi:	Recuerden que hoy se valora! no cuelguen con eso
+02:43:51	[TUTORA] Antonella Herrera:	Si jose
+02:43:57	alonso porras:	bexcelente
+02:44:00	[Tutora] Luna Bartolozzi:	Los metas siempre son recomendables
+02:44:16	Gabriel Castillo:	Gracias profe
+02:44:22	Julieta Mulinaris:	a ´poner el atajo de doctype lo trae solo
+02:44:26	Juan Pablo Riveros Gonzalez:	gracias por todo
+02:44:27	Gonzalo Martinez Adalid:	garcias!!!
+02:44:29	Daniel Pérez:	gracias
+02:44:30	Ezequiel Lopez mateo:	No me quedo claro donde va. En que parte del head
+02:44:30	Miguel Pachano:	gracias profe
+02:44:31	Agustin Videla:	Gracias profe
+02:44:35	Julieta Mulinaris:	yo siempre lo borraba, ahora lo dejo jaja
+02:44:35	Agustin Videla:	Que tengas buenas noches
+02:44:40	José Rodriguez:	Muchas gracias! buenas noches
+02:44:42	[Tutora] Luna Bartolozzi:	En el head, arriba de todo Eze
+02:44:45	Daniel Arias:	Nos vemos profe!
+02:44:46	Gabriel Gonzalez:	Gracias.
+02:44:48	[TUTORA]Constanza Pugliese:	A practicar!! Que tengan buen finde
+02:44:49	Eduardo Angulo:	A PONER ESA MANITO ARRIBA AHORA
+02:44:50	Ezequiel Lopez mateo:	Gracias!
+02:44:51	Alan Dusserrat:	gracias
+02:44:51	[TUTORA] Antonella Herrera:	mientras lo pongas en el head esta bien eze
+02:44:52	Tomas Bernasconi:	Graciass, buenas noches!
+02:44:52	[Tutora] Luna Bartolozzi:	Nos vemos! practiquen
+02:44:52	[TUTOR] Bautista Castets:	buenas noches!
+02:44:52	Elvis Paul Tapiaza:	gracias voy a repetir .. 10 veces mas esta clase
+02:44:53	[Tutora] Luna Bartolozzi:	valoren
+02:44:53	Diego Villalba:	Buenas noches!!!
+02:44:53	[TUTORA]Constanza Pugliese:	cualquier duda al slack :)
+02:44:54	Alan Dusserrat:	nos vemos
+02:44:54	alexis nahuel gauna britos:	nos vemos
+02:44:55	[Tutora] Luna Bartolozzi:	buen finde!
+02:44:55	Gonzalo Martinez Adalid:	buen finde!!!!
+02:44:56	[Tutor] Mathias Barbosa:	Nos vemos, cualquier cosa nos escriben por slack!
+02:44:57	Juan Manuel Gonzalez:	Muchas gracias
+02:44:58	[TUTOR]Victor Hernandez:	Buen finde!
+02:44:58	Julieta Mulinaris:	gracias ! buenas noches 😘
+02:45:00	Gabriel Gonzalez:	gracias
+02:45:01	Gonzalo Martinez Adalid:	hoy si se valora
+02:45:01	Agustin Videla:	Sisisi
+02:45:01	Julieta Mulinaris:	a valorar
+02:45:01	Francisco Cilbeti:	saludos!
+02:45:02	[Tutora] Luna Bartolozzi:	Si hoy si
+02:45:02	[TUTORA] Antonella Herrera:	Buenas noches, hoy se valora!
+02:45:02	Cristian Durán:	chao, chao, cuidense
+02:45:04	[Tutora] Melisa Ferreyra:	Buenas nohes
+02:45:05	(TUTORA) Magui Alonso:	buen finde a todos!!! cualquier duda estamos por Slack recuerden!
+02:45:05	Gabriel Gonzalez:	buenas noches
+02:45:05	Juan Pablo López:	Buenas noches y buen finde!
+02:45:08	alexis nahuel gauna britos:	saludos a todos
+02:45:09	Eduardo Angulo:	DONDE AFTER GENTE?
+02:45:11	William Andres Jaimes Fontalvo:	Muchas gracias Dario y tutores, boa noite!!
+02:45:13	Eduardo Angulo:	e.e
+02:45:22	Francisco Cilbeti:	ok
+02:45:22	Eduardo Saldaña:	gracias, buenas noches!
+02:45:28	Federico Portillo Luzuriaga:	gracias adios
+02:45:30	Juan Pablo Riveros Gonzalez:	buena noche
+02:45:31	alonso porras:	gracias
+02:45:32	Eduardo Angulo:	el otro after ;)
+02:45:38	alonso porras:	buenas noches profe
+02:45:42	Martin Frette:	CHAU CHAUUUUUU
+02:45:45	Angeles Gonzalez:	buenas noches
+02:45:51	Cristian Segovia Montier:	buenas noches
+02:45:55	Elvis Paul Tapiaza:	buenas ncohes a todos
+02:45:56	Facundo Nahuel Bailo:	nos vemos
+02:46:07	Ruben Ortega:	see
+02:46:08	Dario Ceballos:	Todo lo que sea AFTER avisamos por Slack
+02:46:17	Dario Ceballos:	Adioooossss

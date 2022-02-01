@@ -1,0 +1,579 @@
+00:35:53	Francisco Agüero:	todo bien
+00:35:53	Gonzalo Martinez Adalid:	barbaro
+00:35:53	Leandro Nicolas Olmos Gomez:	ansiosooo
+00:36:03	Luciana Garro:	hoy se solucionan todos sus problemas
+00:36:04	Luciana Garro:	jajajaja
+00:36:20	William Andres Jaimes Fontalvo:	Con ganas de conocerlo después de batallar con box un buen rato
+00:36:21	Luciana Garro:	dales esperanzaaaaaaaaaa
+00:36:24	Cristian Segovia Montier:	😖
+00:36:34	Mateo del Campillo:	gracias Luna!
+00:36:35	Luciana Garro:	jajajajaja
+00:36:54	Angeles Gonzalez:	nooooooooo
+00:36:58	(Tutora)Luciana Garro:	imposible
+00:36:59	Franco Romero:	el señor de los grids
+00:37:04	Cristofer Cabrera:	explotación de cabeza
+00:37:06	[TUTORA]Constanza Pugliese:	Buenas noches!!
+00:37:09	Cristian Segovia Montier:	jajaja
+00:37:15	(Tutora)Luciana Garro:	no es difícil pero es para prestar atención
+00:37:15	Tadeo Jablonski:	le hacían un speedrun a la explicacion
+00:37:20	(Tutora)Luciana Garro:	sigue la misma lógica
+00:37:30	Jihlam Alvarado:	Buenas noches a todxs
+00:37:48	(Tutora)Luciana Garro:	muchas cosas que querían hacer con flex y no les salía las van a poder hacer ahora con grids
+00:37:50	marielmartin:	Buenas noches, recién me volvió la luz después de 8 hs de corte
+00:39:03	Alan Dusserrat:	Grids complementa flexbox? o lo reemplaza?
+00:39:29	[Tutora] Luna Bartolozzi:	Se complementa 😄
+00:39:39	Ignacio Primero Narvaez:	Buenas noches
+00:39:40	[TUTORA]Constanza Pugliese:	La idea es que puedan usar grids, felxbox y box modeling
+00:40:00	(Tutora)Luciana Garro:	un equilibrio entre estos tres elementos
+00:40:07	(Tutora)Luciana Garro:	como dice Constanza
+00:40:16	Alan Dusserrat:	Ahh gracias!
+00:40:19	EDUARDO  ANGULO:	el avatar
+00:40:20	Jihlam Alvarado:	Tengo un amigo que trabaja como programador y hablando con el me dice que uno se decide por trabajar con box modelling o con grids, no los ambos, que hay de cierto?
+00:40:21	Francisco Cilbeti:	buenas
+00:40:34	William Andres Jaimes Fontalvo:	Box-modeling es un campo de batalla con cajas
+00:40:45	(Tutora)Luciana Garro:	Jihl es personal y/o de acuerdo a lo que te requiera la empresa
+00:41:01	(Tutora)Luciana Garro:	como programador te recomiendo el manejo de ambos siempre
+00:41:05	Jihlam Alvarado:	Va bene, gracias Lú :)
+00:41:06	Federico Portillo Luzuriaga:	divine
+00:41:11	(Tutora)Luciana Garro:	porque son cosas básicas para el desarrollo web ambas
+00:41:51	Jihlam Alvarado:	Entiendo, gracias gracias, pensé eran dos "metodologías" por asi decirle.
+00:42:04	(Tutora)Luciana Garro:	son diferentes propiedades de css
+00:42:13	(Tutora)Luciana Garro:	por un lado las de flex y por otro las de grids
+00:42:17	Renzo Posobon:	chau flex xD
+00:42:19	Federico Portillo Luzuriaga:	un elemento de un grid puede tener dentro un flex?
+00:42:20	[TUTORA]Constanza Pugliese:	como explica el profe, tienen que usar ese criterio
+00:42:26	(Tutora)Luciana Garro:	si fede
+00:42:31	(Tutora)Luciana Garro:	son combinables
+00:42:31	[Tutor] Mathias Barbosa:	Si fede!
+00:42:34	Federico Portillo Luzuriaga:	clave
+00:42:47	(Tutora)Luciana Garro:	grids apunta a lo bidimensional
+00:42:51	Tadeo Jablonski:	osea mucho código dentro
+00:42:59	[TUTORA]Constanza Pugliese:	van a usar felxbox dentro de los elementos de su grilla, ya lo vamos a ver
+00:43:01	(Tutora)Luciana Garro:	mientras flex apunta  a lo unidimensional
+00:43:44	Alan Dusserrat:	a grid le das las ordenes q quieras a los hijos no?
+00:45:10	[TUTORA]Constanza Pugliese:	van a usar grid para el layout principal de la página
+00:45:27	[TUTORA]Constanza Pugliese:	un ejemplo típico son las galerías
+00:46:00	Franco Romero:	como las tiendas online
+00:46:01	Julieta Mulinaris:	para el carrousel ?
+00:46:36	Gabriel Castillo:	Una duda, afecta con respecto a velocidad de la página usar flexbox y/o grid?
+00:46:37	[Tutora] Antonella Herrera:	Juli, para carrusel vamos a ver Bootstrap mas adelante
+00:46:43	Julieta Mulinaris:	genial !
+00:46:49	[TUTORA]Constanza Pugliese:	no Juli para el carousel vamos a usar componentes de Bootstrap
+00:46:59	Katriel Espino:	Bootstrap no es el nombre de una empresa también?
+00:47:02	[TUTORA]Constanza Pugliese:	No Gaby
+00:48:21	Gabriel Castillo:	Constanza entonces la página so será más rápida si solo uso flexbox o viceversa no se hará mas lenta si uso tanto flexbox y grid
+00:49:08	(Tutora)Luciana Garro:	Gabriel la velocidad de la página desp es otro tema
+00:49:25	(Tutora)Luciana Garro:	que tiene mas que ver con JavaScript o el backend
+00:49:27	[TUTORA]Constanza Pugliese:	Claro, lo que estamos viendo tiene que ver con acomodar los elementos
+00:49:52	(Tutora)Luciana Garro:	acá aprendemos a maquetar la web
+00:49:54	[TUTORA]Constanza Pugliese:	en la clase de SEO vamos a ver como optimizar algunas cosas
+00:50:00	(Tutora)Luciana Garro:	en los siguientes cursos la van a hacer dinámica
+00:50:11	Gabriel Castillo:	A vale está bien, gracias.
+00:50:12	(Tutora)Luciana Garro:	claro, vamos a ver algunos optimizadores de búsqueda
+00:50:33	(Tutora)Luciana Garro:	pero pongan la atención en la maquetación
+00:50:50	Raúl Óscar Chiri de Villaflor:	y yo que estaba tratando de hacer algo asi con full box modeling :'(
+00:51:00	EDUARDO  ANGULO:	Grid yo te amo... quiero que vuelvas a mi lado
+00:51:06	Alan Dusserrat:	jajaja
+00:51:15	Joaquín Tommasi:	jajaj
+00:51:40	Jose Useche:	para el proyecto se pede pasar todo lo que uno considere a grids reemplazando de pronto cosas de box y flex
+00:51:54	[TUTORA]Constanza Pugliese:	Ahora se te va a simplificar bastante Raúl :)
+00:52:29	[TUTORA]Constanza Pugliese:	si Jose, pero no es obligatorio que modifiquen todo el sitio
+00:54:26	Daniel Pérez:	como seria el tema de padres/hijos
+00:54:37	(Tutora)Luciana Garro:	como siempre daniel
+00:54:43	(Tutora)Luciana Garro:	los hijos heredan los atributos del padre
+00:54:48	Daniel Pérez:	ok
+00:54:54	(Tutora)Luciana Garro:	a menos que le pongas una class al hijo que especifique otra cosa
+00:55:49	(Tutora)Luciana Garro:	ATENCION
+00:56:31	[Tutora] Luna Bartolozzi:	esta es la clave de grid
+00:57:58	[TUTOR]Victor Hernandez:	Misma metodología que flexbox se le aplica la propiedad al padre para que los hijos se adapten según lo codeado
+00:58:19	Jose Useche:	lo del reseteo en css también se aplica cuando lleva grids o lo del reseteo aplica para todo
+00:58:20	(Tutora)Luciana Garro:	la lógica es la misma como dice victor
+00:58:33	(Tutora)Luciana Garro:	si Jose, se aplica el reseteo también
+00:58:42	[Tutora] Luna Bartolozzi:	el reseteo se aplica tambien Jose
+00:59:15	Edgard Alan Gamboa Olmos:	no es necesario llamar por algún ombre a cada elemento de los div?
+00:59:25	Edgard Alan Gamboa Olmos:	para identificarlos
+00:59:29	(Tutora)Luciana Garro:	vamos a verlo en un rato
+00:59:34	Constancio Molinengo:	El texto “GRID” porque queda en la primera columna?
+00:59:35	(Tutora)Luciana Garro:	se lo podría poner una class
+00:59:39	Federico Portillo Luzuriaga:	rip box modeling
+00:59:40	(Tutora)Luciana Garro:	pero por ahora paso a paso
+00:59:54	[Tutora] Luna Bartolozzi:	se podria usar class pero hay otro metodo tambien, tranqui que ahora lo vemos
+01:00:02	[TUTORA]Constanza Pugliese:	Constancio el h1 no está dentro del grid
+01:00:23	[Tutora] Antonella Herrera:	Queda porque esta dentro del header, es un hijo directo y esta dentro de la clase grid
+01:00:27	EDUARDO  ANGULO:	USTEDES CUAL VAN A UTILIZAR? Y POR QUE GRID?
+01:00:36	Itati Romero:	jajaja
+01:01:06	Ricardo Ramirez:	si
+01:01:08	Federico Portillo Luzuriaga:	yes
+01:01:16	Francisco Cilbeti:	si
+01:01:17	Federico Portillo Luzuriaga:	por la ventana
+01:03:06	Cristofer Cabrera:	claro pero cuando pases a grid con filas es al reves no
+01:03:25	Cristofer Cabrera:	osea mandara la fila
+01:04:12	Ricardo Ramirez:	Cual es el comando para comentar algo despues de agarrarlo?
+01:04:22	Nicolás Angel Lazarte:	ctl+kc
+01:04:23	Francisco Tognola:	BUM
+01:04:24	Agustin Videla:	osea q los grids podemos modificar el tamaño de lo que tiene denrto y tambien de la columna?
+01:04:27	Ricardo Ramirez:	gracias
+01:04:53	Ricardo Ramirez:	es responsive
+01:05:23	Francisco Tognola:	Lo mismo si le haces zoom con ctrl
+01:06:03	Julieta Mulinaris:	nos conviene usar siempre % en el proyecto entonces?
+01:06:03	(Tutora)Luciana Garro:	después vamos a ver en detalle responsive en la siguiente clase también, asique con esto no se hagan tanto lío hoy
+01:06:39	EDUARDO  ANGULO:	GRID+18
+01:06:41	[Tutora] Antonella Herrera:	Agus, los hijos directos van a ser las columnas o filas, entonces vas a poder modificarlos de esa manera
+01:08:08	Ricardo Ramirez:	siiuuuu
+01:08:09	Francisco Cilbeti:	si
+01:08:10	Julieta Mulinaris:	sii
+01:08:11	Pablo Agustin Vallejos:	si
+01:08:25	Julieta Quaglia:	Esto se puede usar por ejemplo, con una imagen y con un texto?
+01:10:20	Cristofer Cabrera:	la altura
+01:10:20	Constancio Molinengo:	Eliminar la altura de la caja
+01:10:23	Leandro Nicolas Olmos Gomez:	sacar el height
+01:10:23	Eduardo Saldaña:	height
+01:10:24	Julieta Mulinaris:	height
+01:10:25	Katriel Espino:	el height
+01:10:28	Francisco Cilbeti:	heigth
+01:11:09	Julieta Mulinaris:	maravilloso
+01:11:10	Nahuel Figueroa:	Hermoso
+01:11:10	Ezequiel Lopez mateo:	soñado
+01:11:17	Cristofer Cabrera:	la entrada
+01:11:19	Cristofer Cabrera:	Jaja
+01:11:19	Federico Portillo Luzuriaga:	miameee
+01:11:19	Martin Frette:	sweeeeeeeeeeeeeeeet
+01:11:20	EDUARDO  ANGULO:	MARAVILLOSA JUGADA
+01:11:25	Joaquín Tommasi:	Trambolico
+01:11:40	Jose Useche:	profe cuantas canas saco con box y flexbox
+01:11:50	Raynald:	como aplicarlo de manera real en una pagiann web?
+01:12:26	[Tutora] Luna Bartolozzi:	en una galeria de imagenes o en tarjetas de productos puede ser
+01:14:11	Sebastián Huntter:	"se volvió voodoo" jajaja lo voy a usar
+01:14:12	EDUARDO  ANGULO:	X.X
+01:14:22	Julieta Mulinaris:	👏
+01:15:01	Ricardo Ramirez:	xd
+01:15:03	ulises sanchez:	con que tecla retrocedio?
+01:15:04	Pedro Parra:	xd
+01:15:49	Leandro Farfan:	Seria parecido a em?
+01:16:00	Mateo del Campillo:	minmax?
+01:16:08	Leandro Farfan:	?
+01:16:16	Edgard Alan Gamboa Olmos:	en vez de enteros de puede poner fraccionado? por ejemplo 0.5 fr
+01:16:17	Raúl Óscar Chiri de Villaflor:	se podria volver a explicar lo de las fracciones porfavor :(
+01:16:18	Edgard Alan Gamboa Olmos:	?
+01:16:56	Mateo del Campillo:	jajajajaja
+01:17:20	Edgard Alan Gamboa Olmos:	al ser 600 px y las fracciones están siendo relativas como podemos hacerle para que el 600 px también sea realtivo al igual que las fr?
+01:17:54	Nicolás Angel Lazarte:	Ahi tengo una grilla de 3x2 y tengo 6 elementos, si agrego otros elementos como queda??
+01:18:10	Leandro Farfan:	No entiendo
+01:18:16	[Tutora] Antonella Herrera:	Edgar es mejor utilizar enteros para que sea mucho mas fácil de acomodar
+01:18:30	[TUTORA]Constanza Pugliese:	Nico deberías agregarle una fila
+01:18:43	Nicolás Angel Lazarte:	gracias Coni
+01:18:45	Jose Useche:	lo de fracciones profe
+01:19:37	Ruben Ortega:	las medidas de fr son relativass o tiene una medida?
+01:19:45	Ruben Ortega:	ahh ok
+01:19:59	Renzo Posobon:	eso me hace sentir inseguro jajaja
+01:20:01	Francisco Tognola:	no tiene sentido
+01:20:07	Cristian Carabajal:	claro no serviría para algo super especifico.. es mas bien para fraccionar según el total disponible
+01:20:08	Edgard Alan Gamboa Olmos:	gracias
+01:20:19	[TUTORA]Constanza Pugliese:	es más simple, pero vienen usando medidas
+01:20:28	Ruben Ortega:	}simplemente toma las medidas que hay y las distribuye
+01:20:32	Alan Dusserrat:	jajaja
+01:20:33	Gabriel Castillo:	la fracción depende el ancho de la pantalla, es automática la medida
+01:20:33	Jose Useche:	jajaa
+01:20:44	Gabriel Gonzalez:	caja automatica
+01:20:49	Gabriel Spina:	Menos mal, porque no le pego ni a una medida !!! jajaj
+01:20:53	[TUTORA]Constanza Pugliese:	piensen que lo van a usar para el layout principal de la página
+01:20:56	Mateo del Campillo:	exacto
+01:20:56	alonso porras:	podria generar algun problema al inicio al usar esas medidas del grid?
+01:20:57	[Tutora] Antonella Herrera:	Calro, piensen que no todas las pantallas van a tener el mismo ancho, entonces se va a  adaptar
+01:21:00	Federico Portillo Luzuriaga:	es un golazo, mucho mas rapido
+01:21:02	Constancio Molinengo:	Yo lo entiendo como una especie de porcentajes. Si hay 2fr + 2fr es 50% cada uno. Si hay 1fr + 2fr es 33% y 66%
+01:21:05	[TUTORA]Constanza Pugliese:	los elementos de adentro los van a definir con medidas
+01:21:10	Nicolás Angel Lazarte:	antes era a ojo de buen cubero las medidas jaja
+01:21:14	Pedro Parra:	xdddd
+01:21:17	Raúl Óscar Chiri de Villaflor:	ah ya entendi!
+01:21:19	Jose Useche:	ya estamos locos profe
+01:21:30	Katriel Espino:	Capaz que para que o vean más claro estaría b ueno explicar por qué es importante no darle un valor absoluto. Vos imagínate que programas una página web desde la pc y querés que también funcione por celular. Si le das un tamaño determinado, no te alcanza la pantalla del celu, usando esto se adapta a esa pantalla
+01:21:32	Mateo del Campillo:	jajajajaja semejante ecuación ahí arriba
+01:21:32	EDUARDO  ANGULO:	aww
+01:21:34	EDUARDO  ANGULO:	<3
+01:21:53	alonso porras:	es el espacio disponible que dispone el responsive?
+01:22:29	[TUTORA]Constanza Pugliese:	el contenedor se va a adaptar al ancho de la pantalla del dispositivo
+01:22:35	alonso porras:	a ok
+01:22:39	Daniel Pérez:	se entiende
+01:22:41	alonso porras:	si
+01:22:43	Pedro Parra:	siii
+01:22:43	EDUARDO  ANGULO:	ahhh
+01:22:43	YELITZA CHAURAN:	si
+01:22:44	Francisco Cilbeti:	geial
+01:22:45	Francisco Cilbeti:	genial
+01:22:47	Martin Frette:	exitos!
+01:22:51	Oscar Luis Gallardo:	👍🏻
+01:22:57	Diego López:	se entiende, de todas formas se va entender mejor practicando
+01:22:57	Alan Dusserrat:	grid es para teléfonos?
+01:22:58	Mateo del Campillo:	se adapta a los valores que uno le da
+01:23:20	Francisco Cilbeti:	exacto, no importa el dispositivo se adapta
+01:23:22	Jose Useche:	para mobile que tanto influye
+01:23:24	Joaquín Tommasi:	Se entendio!
+01:23:34	Pedro Parra:	Se entendió claro
+01:23:40	alonso porras:	osea se puede trabajar todo con grid y no usar el valor absoluto o relativo?
+01:23:45	[TUTORA]Constanza Pugliese:	ya vamos a ver responsive con media queries
+01:23:50	Constancio Molinengo:	Entonces los tamaños absolutos son casi inútiles para paginas web modernas
+01:23:53	[TUTORA]Constanza Pugliese:	ahora prioricen entender grids
+01:24:20	[TUTORA]Constanza Pugliese:	siempre es mejor usar medidas relativas Constancio, te ahorra tiempo
+01:24:51	alonso porras:	ok profe
+01:25:08	Francisco Cilbeti:	144
+01:25:10	Gabriel Gonzalez:	si
+01:25:12	EDUARDO  ANGULO:	144
+01:25:37	EDUARDO  ANGULO:	mind explotion
+01:25:44	Constancio Molinengo:	Esos trucos mágicos del profe
+01:25:59	Angeles Gonzalez:	desesperada copiando los trucos del profe
+01:26:02	Angeles Gonzalez:	jajajaja
+01:26:03	Constancio Molinengo:	Yo todavía no me acostumbre a guardar con ctrl s
+01:26:05	Ruben Ortega:	como enumero los divs?
+01:26:07	Constancio Molinengo:	jajajaja
+01:26:07	Julieta Mulinaris:	como se hace para q quede con números ?
+01:26:41	William Andres Jaimes Fontalvo:	div{$}*144 así ?
+01:27:18	Francisco Cilbeti:	en el css algo paso con la clase
+01:27:18	Juan Tomaz:	guarde el css
+01:27:19	Raúl Óscar Chiri de Villaflor:	sii
+01:27:22	Francisco Cilbeti:	esta gris
+01:27:24	Francisco Agüero:	falta guardar
+01:28:55	Matias Molina:	Seria una función ideal como para hacer ua tienda ecomerce,digamos?
+01:28:57	Ricardo Ramirez:	en que casos de la vida real seria util?
+01:29:04	Diego López:	bien
+01:29:06	Angeles Gonzalez:	hermoso!!
+01:29:29	Edgard Alan Gamboa Olmos:	y los números que continuaban solos se enumeran? o cmo fue?
+01:29:41	[TUTORA]Constanza Pugliese:	Mati esto lo harías con js para automatizar y no estar codeando cada producto, pero sí podés usar por ahora grid
+01:29:42	[Tutora] Luna Bartolozzi:	se puede usar para reemplazar la tabla Ricardo
+01:29:50	Ricardo Ramirez:	oh entiendo
+01:29:52	Gabriel Castillo:	Ricardo una galería de imagénes
+01:30:19	Ricardo Ramirez:	Gracias
+01:31:52	Mateo del Campillo:	no le cabe una
+01:32:34	Gabriel Spina:	imágenes ?
+01:32:42	[TUTORA]Constanza Pugliese:	claro Gaby
+01:32:59	Leandro Nicolas Olmos Gomez:	hermoso para hacer el catalogo con los productos
+01:33:01	Diego López:	que biennn
+01:33:15	Diego López:	que manera de sufrir acomodando las fotos
+01:33:31	[Tutora] Luna Bartolozzi:	exacto Lean
+01:33:33	[Tutora] Luna Bartolozzi:	Ideal para eso
+01:34:14	Alan Dusserrat:	con grids podemos agarrar section footer y eso?
+01:34:17	alonso porras:	que me gusta los grids
+01:34:18	Federico Portillo Luzuriaga:	ok
+01:34:21	Pablo Agustin Vallejos:	si
+01:34:22	Julieta Mulinaris:	igual hay q hacer un grid por cada html ?
+01:34:33	Julieta Mulinaris:	genial
+01:34:43	Katriel Espino:	Se me trancó un poco, en la parte que agrego el 30% y el 2fr antes del repeat
+01:34:45	Alan Dusserrat:	joyaa
+01:34:48	alonso porras:	genial
+01:34:49	Itati Romero:	genial
+01:34:55	Oscar Luis Gallardo:	👌🏻
+01:35:05	alonso porras:	pase su playlist profe por slack please
+01:35:31	Dario Ceballos:	Ja no es playlist solo lista de favs y música aleatoria
+01:35:32	[TUTORA]Constanza Pugliese:	Gastón Gay, Gonzalo Damián Franco, Ignacio Bonzi e Ignacio Tettamanti están?
+01:35:37	[Tutora] Antonella Herrera:	Aprovecho y pregunto, están Yamila Insaurralde, Valentino Bossio y Tomas Broggi? Si están necesito que se coloquen el nombre en zoom para poder pasarles el presente
+01:35:41	Juan Pedro Coiro:	Darío podes poner un tema de la deskarga? Me voy se llama.
+01:35:57	Dario Ceballos:	queseso
+01:36:17	Alan Dusserrat:	no se escucha? o soy yo?
+01:36:23	EDUARDO  ANGULO:	pa que mueva la turrakaaaa
+01:36:29	Federico Portillo Luzuriaga:	no se escucha
+01:36:46	Katriel Espino:	veníamos rock lindo y nos pusimos viernes de noche
+01:36:56	Katriel Espino:	Eso es plena uruguaya jaja
+01:37:04	EDUARDO  ANGULO:	la pibita me llama... tamo chelo♪
+01:37:09	Gianfranco Pedrazzoli:	kien pal baile
+01:37:53	Elvis Paul Tapiaza:	ojo
+01:41:02	Francisco Cilbeti:	tamos
+01:41:05	Katriel Espino:	En uruguay existe un género musicalque es plena
+01:41:06	Katriel Espino:	eso era plena
+01:41:30	(Tutora)Luciana Garro:	pilasssssss
+01:41:33	(Tutora)Luciana Garro:	vamos chicos!
+01:41:33	Angeles Gonzalez:	sii
+01:42:02	Ricardo Ramirez:	si
+01:42:08	Juan Pablo Riveros Gonzalez:	si
+01:44:17	alonso porras:	si porfa
+01:44:21	Dario Ceballos:	<body id="gridAreas">
+
+    <header class="border">Header</header>
+    <section id="productos" class="border">Section</section>
+    <section id="servicios" class="border">Section</section>
+    <nav class="border">Navegacion</nav>
+    <aside class="border">Aside</aside>
+    <footer class="border">Pie de pagina</footer>
+    
+</body>
+01:45:27	Dario Ceballos:	.border {
+    border: 1px solid black;
+ }
+01:53:44	Jose Useche:	si se mezclan items de box, flex y grids en alguna area , texto o imagen no se superponen o generan conflicto?
+01:56:22	[TUTORA]Constanza Pugliese:	podés asignarle varias propiedades a un mismo elemento Jose, depende lo que quieras lograr
+01:56:59	Edgard Alan Gamboa Olmos:	y por que no se le puede poner menú de nuevo en vez de dos veces cabeza?
+01:57:41	[TUTORA]Constanza Pugliese:	porque está siguiendo ese ejemplo Edgard
+01:58:10	Alan Dusserrat:	aside
+01:58:11	[TUTORA]Constanza Pugliese:	tenés que llamar a cada área por columna
+01:58:11	Federico Portillo Luzuriaga:	publicidad
+01:58:12	Gabriel Spina:	el aside
+01:58:13	Julieta Mulinaris:	publicidad
+01:58:14	Francisco Cilbeti:	aside
+01:58:14	Edgard Alan Gamboa Olmos:	okey gracias crei que era en especifico
+01:58:16	Orlando Diaz:	brazo
+01:58:54	Renzo Posobon:	sisi
+01:58:55	Angeles Gonzalez:	es mas fácil para ubicar
+01:58:56	Federico Portillo Luzuriaga:	si
+01:58:58	Alan Dusserrat:	si
+01:58:58	Federico Portillo Luzuriaga:	barbaro
+01:59:03	Angeles Gonzalez:	es geniañ
+01:59:20	Angeles Gonzalez:	*genial
+01:59:39	alonso porras:	genial
+01:59:41	Federico Portillo Luzuriaga:	send codigo de ejemplo please jaja
+02:00:13	Jose Useche:	me recuerdan por favor por que toma esas medidas cada elemento
+02:00:35	Jose Useche:	es decir largo, ancho etc
+02:00:46	alonso porras:	es como boopstrap?
+02:00:49	Mateo del Campillo:	que bueno que es grid jajajajaja
+02:00:54	Renzo Posobon:	menu
+02:00:56	Alan Dusserrat:	menu
+02:00:57	William Andres Jaimes Fontalvo:	Menu
+02:00:57	Federico Portillo Luzuriaga:	si nombras las areas antes del grid areas en el css pasa algo?
+02:00:57	lucas cifuentes:	menu
+02:01:00	Francisco Cilbeti:	menu
+02:01:01	Ruben Ortega:	menu
+02:01:04	Francisco Cilbeti:	servicios
+02:01:04	Gabriel Spina:	menú productos brazo
+02:01:09	Constancio Molinengo:	servicios
+02:01:09	Francisco Cilbeti:	servicios
+02:01:09	Renzo Posobon:	servicios
+02:01:12	Julieta Mulinaris:	productos
+02:01:14	William Andres Jaimes Fontalvo:	Servicios
+02:01:18	Gabriel Spina:	servicios, ok
+02:01:19	Cristofer Cabrera:	servicios
+02:01:19	Alan Dusserrat:	servicios
+02:01:20	Julieta Mulinaris:	servicios
+02:01:20	EDUARDO  ANGULO:	servicio
+02:01:23	Ruben Ortega:	servicios
+02:01:29	Joaquín Tommasi:	servicios brazo
+02:01:31	Francisco Cilbeti:	brazo nuevamente
+02:01:33	William Andres Jaimes Fontalvo:	Brazo
+02:01:33	lucas cifuentes:	brazo
+02:01:34	Mateo del Campillo:	brazo
+02:01:35	Francisco Cilbeti:	pie
+02:01:37	EDUARDO  ANGULO:	brazo
+02:01:39	Constancio Molinengo:	brazo
+02:01:41	Alan Dusserrat:	brazo
+02:01:42	Francisco Cilbeti:	brazo
+02:01:46	Cristian Carabajal:	mal tipeado servicios
+02:01:49	Sebastián Huntter:	quedo una V de mas
+02:01:50	Sebastián Huntter:	demas
+02:01:51	Diego López:	tenes dos v
+02:01:57	Francisco Cilbeti:	servicios esta mal escrito
+02:02:01	Francisco Cilbeti:	eso :)
+02:02:21	EDUARDO  ANGULO:	F por box model y flex
+02:02:44	Constancio Molinengo:	Porque le puso class=“border” a todas las etiquetas?
+02:02:58	Diego López:	para ver lo que ocupaba cada cosa
+02:03:05	[TUTOR] Howard Parra:	para diferenciar
+02:03:08	Francisco Cilbeti:	para marcae elarea de cad una
+02:03:10	Constancio Molinengo:	AAAAh no había visto arriba
+02:03:14	Constancio Molinengo:	Perdon!!
+02:03:25	Constancio Molinengo:	Es como imprimir un excel
+02:03:27	Constancio Molinengo:	Jajaja
+02:04:56	Mateo del Campillo:	es muy bueno
+02:05:20	Francisco Cilbeti:	petacular!
+02:05:24	YELITZA CHAURAN:	grid es = mi TOC feliz
+02:05:29	Ruben Ortega:	triple bum
+02:05:35	Cristian Carabajal:	yo? hincha de grids desde la cuna
+02:05:39	EDUARDO  ANGULO:	mira mami sin manos
+02:06:40	Francisco Cilbeti:	usa el saldo
+02:08:11	Julieta Mulinaris:	cada html seria un grid area o se hace uno mismo para todos ?
+02:08:49	Federico Portillo Luzuriaga:	hermoso
+02:08:50	Renzo Posobon:	ufff hermoso
+02:08:52	Katriel Espino:	voló la mente
+02:08:55	Ricardo Ramirez:	o:
+02:08:55	Ezequiel Lopez mateo:	Muy bueee
+02:08:56	eric lanternier:	clap clap clap
+02:08:56	Katriel Espino:	*clap*
+02:08:56	EDUARDO  ANGULO:	vamoooos
+02:08:57	Constancio Molinengo:	HARRMOSO
+02:08:57	Julieta Mulinaris:	👏
+02:09:00	YELITZA CHAURAN:	happy TOC
+02:09:01	Francisco Agüero:	clap clap
+02:09:02	Alan Dusserrat:	👏🏻
+02:09:02	EDUARDO  ANGULO:	ahhhhh
+02:09:02	Martin Frette:	vaaaaaaaaaaaaaaaaaaaaaaaamaaaaaaaaaaaaaaaaaaaaaaaaaaa
+02:09:03	Pablo Agustin Vallejos:	👏🏽
+02:09:04	Oscar Luis Gallardo:	😆
+02:09:04	Cristofer Cabrera:	*sonido de aplauso*
+02:09:05	Federico Portillo Luzuriaga:	display grid mi nuevo tatoo
+02:09:05	Gabriel Spina:	😍
+02:09:06	Mateo del Campillo:	''aplausos''
+02:09:06	Matias Molina:	Ancara Messi
+02:09:08	Angeles Gonzalez:	👏
+02:09:08	Gonzalo Martinez Adalid:	👏🏻
+02:09:08	Gabriel Gonzalez:	👏
+02:09:09	EDUARDO  ANGULO:	rip class 4/5
+02:09:09	Alan Güida:	🙌
+02:09:10	Leandro Farfan:	🤝
+02:09:11	[Tutora] Antonella Herrera:	depende lo que necesites juli
+02:09:15	ulises sanchez:	👏
+02:09:15	Ruben Ortega:	vamos messi
+02:09:22	William Andres Jaimes Fontalvo:	Clap clap clap clap
+02:09:29	alonso porras:	👏
+02:09:35	[Tutora] Melisa Ferreyra:	Julieta, si queres mantener la misma estructura, debes aplicárselo a todos tus archivos HTML por igual
+02:09:37	eric lanternier:	podría pasar el código ahora asi lo tenemos profe :P
+02:09:39	Tadeo Jablonski:	💯
+02:10:30	Daniel Pérez:	se pueden separar?
+02:11:35	[Tutora] Melisa Ferreyra:	ahí lo muestra Daniel
+02:11:36	Angeles Gonzalez:	shoro
+02:11:49	Constancio Molinengo:	Profe para separar partes de manera individual?
+02:11:54	Constancio Molinengo:	Por ejemplo, el menú del resto
+02:12:01	Jose Useche:	esos lineados se puede quitar y delinearo o seprara por colores?
+02:12:01	Daniel Pérez:	perfecto
+02:12:26	Constancio Molinengo:	Seria poner un margin en nave?
+02:12:28	Constancio Molinengo:	nav*
+02:12:30	[Tutora] Antonella Herrera:	si Jose, están delineados por la clase border
+02:13:30	[Tutora] Antonella Herrera:	Podes colocarle un padding, para que sea una separación interna Constancio
+02:13:47	Constancio Molinengo:	Perfecto!
+02:13:52	Constancio Molinengo:	Gracias
+02:14:18	Leandro Farfan:	Buenisima la referencia
+02:14:36	Joaquín Tommasi:	Uff tremendo
+02:14:44	Nahuel Figueroa:	Una hermosura
+02:14:48	EDUARDO  ANGULO:	BUENAAAARDO
+02:14:49	Julieta Mulinaris:	excelente !
+02:14:52	Katriel Espino:	Cheto
+02:14:54	William Andres Jaimes Fontalvo:	Me encantó
+02:14:55	Elvis Paul Tapiaza:	si esta hermoso tratando de que no me explote la cabeza
+02:14:56	Enzo Vidal:	voy a explotarr
+02:14:57	Tadeo Jablonski:	lo más practico que existe
+02:14:58	EDUARDO  ANGULO:	sali CosCu
+02:15:11	Ezequiel Lopez mateo:	flex box quien te conoce
+02:15:18	Elvis Paul Tapiaza:	todo es posible
+02:15:20	Katriel Espino:	Gridception
+02:15:21	Joaquín Tommasi:	Queremos tu canal de YouTube @Dario
+02:15:38	Mateo del Campillo:	🤯
+02:15:45	Katriel Espino:	El SEÑOR darío ceballos tiene YT channel?
+02:15:50	William Andres Jaimes Fontalvo:	Spiderman: No way Box-modeling
+02:15:58	Mateo del Campillo:	jajjjaaajajaa
+02:16:04	Angeles Gonzalez:	jajajajaja
+02:16:07	Ricardo Ramirez:	gatos
+02:16:07	Mateo del Campillo:	la del gato
+02:18:07	Renzo Posobon:	entre el wireframe y el grid sale con fritas el sitio web
+02:18:31	William Andres Jaimes Fontalvo:	Y se puede meter un grid dentro de un flex ?
+02:18:42	Leonardo Pedranti:	2 id
+02:18:44	Cristian Carabajal:	#
+02:18:50	Cristian Carabajal:	va con #
+02:18:55	Cristian Carabajal:	es id
+02:20:08	Federico Portillo Luzuriaga:	la nasa
+02:20:25	Mateo del Campillo:	super util
+02:20:26	Angeles Gonzalez:	genial
+02:20:27	Agustin Videla:	es un ajoya
+02:20:27	Francisco Cilbeti:	una maravilla
+02:20:28	William Andres Jaimes Fontalvo:	Maravilloso
+02:20:28	Ricardo Ramirez:	una locura maravillosa
+02:20:29	Alan Dusserrat:	muy bueno
+02:20:29	Nahuel Figueroa:	Messirve
+02:20:30	Ezequiel Lopez mateo:	Increíble
+02:20:31	Gonzalo Martinez Adalid:	bomba
+02:20:31	Raynald:	bien
+02:20:32	alexis nahuel gauna britos:	de 10
+02:20:32	Julieta Mulinaris:	esooo necesitaba, menos mal no perdí tiempo haciéndolo con los margin jajaja
+02:20:33	Cristian Segovia Montier:	muy practico
+02:20:36	Gabriel Spina:	excelente
+02:20:40	Daniel Pérez:	esta bueno, pero parece complicado
+02:20:42	Elvis Paul Tapiaza:	es una joya... solo me falta entender mas mañana habrá refuerzo??
+02:20:43	Joaquín Tommasi:	Messi
+02:20:56	Cristofer Cabrera:	se debería hacer la grilla del sitio con grid área?
+02:21:15	Agustin Videla:	igual hay otra clase de grid no?
+02:21:19	(Tutora)Luciana Garro:	si agus
+02:21:22	(Tutora)Luciana Garro:	el jueves
+02:21:23	Agustin Videla:	joyaa
+02:21:27	Elvis Paul Tapiaza:	vale tenes razón gracias
+02:21:28	(Tutora)Luciana Garro:	seguimos con grids
+02:21:29	Jose Useche:	o sea el viernes el after
+02:21:32	Leandro Farfan:	Hubo after de flex?
+02:21:41	William Andres Jaimes Fontalvo:	Nou
+02:21:42	[Tutora] Melisa Ferreyra:	Puede revisar la grabacion luego, y reforzar con el material complementario también!!
+02:22:18	Cristian Carabajal:	hay algún juego online de grids? como el de froggy flex
+02:22:33	Gabriel Castillo:	Para esta clase habrá desafío?
+02:22:42	Jose Useche:	podría compartir el  game de flex
+02:22:44	Katriel Espino:	No gabriel
+02:22:56	[TUTORA]Constanza Pugliese:	Grid garden! https://cssgridgarden.com/#es
+02:23:04	Mateo del Campillo:	gracias coty
+02:23:05	William Andres Jaimes Fontalvo:	Gracias!!!!
+02:23:08	Cristian Carabajal:	genial
+02:23:50	Ruben Ortega:	genial esa pagina
+02:23:54	[TUTORA]Constanza Pugliese:	Gaby no hay desafío de esta clase pero se va a evaluar en la próxima
+02:24:01	[TUTORA]Constanza Pugliese:	así que vayan practicando :)
+02:24:11	Francisco Cilbeti:	.
+02:24:11	Gabriel Castillo:	Gracias Coni
+02:25:25	EDUARDO  ANGULO:	gatito tiene que irse
+02:25:41	[TUTORA]Constanza Pugliese:	el jueguito de flexbox era este https://flexboxfroggy.com/#es
+02:26:04	Raúl Óscar Chiri de Villaflor:	buenisimo :D
+02:26:28	EDUARDO  ANGULO:	Mama: deja eso y ponete a estudiarYo: Mama estoy practicando...
+02:27:10	[TUTORA]Constanza Pugliese:	jajaj está bueno porque practican sin darse cuenta
+02:27:32	EDUARDO  ANGULO:	gracias Coty <3
+02:27:38	Ricardo Ramirez:	flex
+02:27:40	Mateo del Campillo:	de flex
+02:27:40	Nicolás Angel Lazarte:	como diferencio none de . ?
+02:27:40	Daniel Pérez:	flex
+02:27:42	Renzo Posobon:	flexbox
+02:27:43	Francisco Cilbeti:	flex
+02:27:43	Katriel Espino:	las mismas que en flex
+02:27:47	Leandro Nicolas Olmos Gomez:	felx
+02:27:52	Matias Molina:	justify content
+02:27:59	Gabriel Castillo:	ALIENACIÓN
+02:30:57	Dario Ceballos:	https://codepen.io/santiagoav-the-bashful/pen/WNbwXYy
+02:31:42	Francisco Cilbeti:	lo mismo
+02:31:45	Francisco Cilbeti:	eso
+02:32:20	Katriel Espino:	esas propiedas se escriben debajo del grid-template- areas?
+02:33:13	Daniel Pérez:	se tienen que armar diferentes paginas .css para ponerle diferentes parámetros?
+02:33:46	Daniel Pérez:	ah okok!
+02:33:50	[TUTORA]Constanza Pugliese:	siempre un solo css
+02:33:59	[TUTOR]Victor Hernandez:	Exacto solo un css
+02:34:10	[TUTOR]Victor Hernandez:	mas adelante veremos una herramienta que nos ayudara a dividir el codigo
+02:34:38	Francisco Cilbeti:	genial
+02:35:01	Gabriel Castillo:	Gracias, excelente clase profe
+02:35:04	Sebastián Huntter:	gracias!
+02:35:04	Julieta Mulinaris:	muchas gracias ! hasta el jueves
+02:35:05	alonso porras:	si ,uchas gracias
+02:35:06	Juan Pablo López:	muchas gracias! Buenas noches a todos
+02:35:08	Federico Portillo Luzuriaga:	muy buena clase!
+02:35:08	Mateo del Campillo:	barbaro
+02:35:09	Raúl Óscar Chiri de Villaflor:	gracias profe!
+02:35:09	Joaquín Tommasi:	Muy bueno
+02:35:10	Gonzalo Martinez Adalid:	graciassss
+02:35:11	Francisco Cilbeti:	mil gracias por la clase de hoy
+02:35:11	Itati Romero:	gracias, excelente clase
+02:35:12	Angeles Gonzalez:	Muchas gracias!!!
+02:35:12	Daniel Pérez:	gracias
+02:35:13	Ricardo Ramirez:	gracias
+02:35:13	Juan Manuel Gonzalez:	gracias
+02:35:13	Francisco Agüero:	genial
+02:35:14	Diego Villalba:	Buenas noches!!
+02:35:15	alexis nahuel gauna britos:	nos vemos profe
+02:35:15	(TUTORA) Magui Alonso:	esta case no se valora
+02:35:16	[TUTORA]Constanza Pugliese:	opienen y valoren!
+02:35:16	Facundo Nahuel Bailo:	nos vemos
+02:35:18	Tomas Bernasconi:	Graicass! Buenas noches!
+02:35:18	Mateo del Campillo:	muchas gracias!
+02:35:19	[Tutora] Melisa Ferreyra:	Buenas noches!
+02:35:21	Daniel Arias:	Muchas gracias profe!
+02:35:23	[TUTOR] Bautista Castets:	buenas noches!
+02:35:24	[Tutora] Antonella Herrera:	Buenas noches!
+02:35:24	[TUTORA]Constanza Pugliese:	ah no, es la otra jaj
+02:35:27	Francisco Cilbeti:	es clase por medio
+02:35:28	José Rodriguez:	Muchas gracias!
+02:35:29	Martin Frette:	lo que se dio hoy, se aplica para la entrega del jueves_
+02:35:30	[Tutor] Mathias Barbosa:	buenas noches!
+02:35:31	Pablo Agustin Vallejos:	gracias, hasta la proxima
+02:35:32	Tadeo Jablonski:	gracias profeee
+02:35:33	Alan Dusserrat:	nos vemos
+02:35:33	Itati Romero:	saludos1
+02:35:33	William Andres Jaimes Fontalvo:	Muchas gracias, buena noche!!
+02:35:33	Martin Frette:	?
+02:35:34	(TUTORA) Magui Alonso:	buenas noches a todos!!
+02:35:34	Angeles Gonzalez:	Buenas noches para todos!
+02:35:34	[TUTORA]Constanza Pugliese:	Que descansen!
+02:35:35	Agustin Videla:	Dario, muchas gracias, la verad que un excelente profe
+02:35:35	Cristian Segovia Montier:	Gracias!
+02:35:35	Juan Pablo Riveros Gonzalez:	buena noche
+02:35:36	Ignacio Primero Narvaez:	buenas noches
+02:35:37	Gabriel Gonzalez:	chau
+02:35:37	Katriel Espino:	Saludos
+02:35:39	Francisco Agüero:	muchas gracias!
+02:35:40	eric lanternier:	buenas noches
+02:35:41	Agustin Videla:	Que descansem
+02:35:53	alonso porras:	gracias igual
+02:35:54	EDUARDO  ANGULO:	SALUD!
+02:35:54	Lucero Corona:	bai
+02:36:01	Gonzalo Martinez Adalid:	buenas noches!!!!
