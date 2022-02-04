@@ -6,11 +6,14 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
+        <link rel="stylesheet" href="../css/bootstrap/css/bootstrap.css">
         <link rel="stylesheet" href="../css/styles.css">
         <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
 <body>
     <!--Fila de logo + Nav-->
@@ -34,13 +37,44 @@
     <!--Fila de Hero + Call to action-->
     <section class="hero">
         <img src="../img/fondos/wallpaper2.jpg" alt="">
-        <div class="overlay">                          
-            <h2>Coctelo's</h2> 
-            <small>since 1996</small>    
-            <p>Acá va un call to action super original, todavia en produccion</p>                             
+        <div class="overlay">  
+            <div class="container-fluid">     
+                <div class="row align-items-center">    
+                    <div class="col-6 offset-3 text-center col-md-8 offset-md-2">                             
+                            <h2>Coctelo's</h2> 
+                            <small>since 1996</small>    
+                            <p>Acá va un call to action super original, todavia en produccion</p>       
+                    </div>
+                </div>
+            </div>                      
         </div>
     </section>
     <!--Cierre ila de Hero + Call to action-->
+
+    <!--Main-->
+
+    <main>
+        <div class="container-fluid" >
+            <div class="row">
+                <div class="col-10 offset-1 col-md-8 offset-md-2 ">
+                    <h3>lista de contacto</h3>
+                    <ul>
+                        <li>contacto 1</li>
+                        <li>contacto 2</li>
+                        <li>contacto 3</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-10 offset-1 col-md-6 offset-md-3">
+                    <h3>Dejanos tu consulta!</h3>
+                    <form action="">
+                        <input type="textarea">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
 
     <!--Fila Footer-->
     <footer>
@@ -52,5 +86,9 @@
     </footer>
     <!--Fila cierre Footer-->
 
+    <!--Scripts-->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>   
+    <!--Fin de Scripts-->
 </body>
 </html>
