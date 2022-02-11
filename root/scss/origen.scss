@@ -1,0 +1,22 @@
+/*Footer*/
+
+footer{
+    text-align: end;
+    background-color: black;
+    height: 100px;
+    padding: 0 20px;
+    ul{
+        background-color: black;
+        padding-top: 30px ;
+        li{
+            list-style: none;
+            display: inline-block;
+            line-height:normal;
+            color: white;   
+            font-size: 20px;
+            margin: 0 3px;
+        }
+    }
+}
+
+/*Fin Footer*/
