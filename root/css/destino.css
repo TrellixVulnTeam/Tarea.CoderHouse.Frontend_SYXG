@@ -1,11 +1,11 @@
 /*Footer*/
-
 footer {
   text-align: end;
   background-color: black;
   height: 100px;
   padding: 0 20px; }
   footer ul {
+    background-color: black;
     padding-top: 30px; }
     footer ul li {
       list-style: none;
@@ -16,3 +16,14 @@ footer {
       margin: 0 3px; }
 
 /*Fin Footer*/
+.btn--cocteleria:hover {
+  color: red; }
+
+.btn--nosotros:hover {
+  color: blue; }
+
+.btn--experiencia:hover {
+  color: coral; }
+
+.btn--contacto:hover {
+  color: green; }

@@ -41,10 +41,10 @@
     padding: 0 3px;
 }
 
-.header_nav li a:hover{
+/*.header_nav li a:hover{
     color: coral;
     transition: all 0.4s;
-}
+}*/
 
 #navbarNav{
     margin-left: auto;

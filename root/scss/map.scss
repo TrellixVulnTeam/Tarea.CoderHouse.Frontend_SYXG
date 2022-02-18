@@ -1,0 +1,13 @@
+
+$botones:(
+    cocteleria: red,
+    nosotros: blue,
+    experiencia: coral,
+    contacto: green
+);
+
+@each $boton, $color in $botones{
+    .btn--#{$boton}:hover{
+        color: $color;
+    }
+}
