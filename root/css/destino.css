@@ -16,14 +16,3 @@ footer {
       margin: 0 3px; }
 
 /*Fin Footer*/
-.btn--cocteleria:hover {
-  color: red; }
-
-.btn--nosotros:hover {
-  color: blue; }
-
-.btn--experiencia:hover {
-  color: coral; }
-
-.btn--contacto:hover {
-  color: green; }
