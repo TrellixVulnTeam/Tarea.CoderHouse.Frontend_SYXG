@@ -4,6 +4,12 @@
     margin: 0;
     padding: 0;
     font-family: 'Bebas Neue';
+} 
+
+.fondo-generico{
+    padding-top: 25px;
+    background-color: black;
+    color: white;
 }
 /*FIN DE GENERAL*/
 
@@ -94,17 +100,10 @@
 /*FIN DE HERO & CALL TU ACTION*/
 
 /*INICIO INFO*/
-.main_info-container{
-    background-color: black;
-    color: white;
-}
 
-.main_info-container h2{
-    text-align: center;
-}
-
-.main_info-container div p{
-    font-size: 20px;
+.main_info-container img{
+    width: 30%;
+    height: auto;
 }
 /*FIN DE INFO*/
 
@@ -116,28 +115,18 @@
     color: white;
 }
 
-.main-productos h1{
-    text-align: center;
-    font-size: 64px;
-}
-
 .seccion-productos{
     border: white solid 1.3px;
     padding: 16px 64px ;
     margin: 16px 64px;
 }
 
-.seccion-productos h2{
-    text-decoration: underline;
-    font-size: 48px;
-    margin-bottom: 30px;
-}
-
-.seccion-productos h3{
+.texto-tamaño-3{
     font-size: 32px;
     font-weight: bold;
     letter-spacing: 1.8px
 }
+
 
 .producto{
     display: flex;
@@ -145,7 +134,12 @@
     justify-content: space-between;
     margin: 16px 0;
 }
-/*fIN DE COCTELERIA*/
+/*FIN DE COCTELERIA*/
+
+/*NOSOTROS*/
+
+
+/*FIN DE NOSOTROS*/
 
 
 /*CONTACTO*/
@@ -177,6 +171,19 @@
 
 /*FIN DE CONTACTO*/
 
+/*TEXTO*/
+
+.titulo-grande{
+    text-decoration: underline;
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.anclaje :hover{
+    color: coral;
+    transition: all 0.4s;
+}
+/*FIN TEXTO*/
 
 /*GRID AREAS*/
 
